@@ -15,7 +15,7 @@ Script `2_ori_ter_annotation_single.py` makes annotation for single genome using
 Full slurm script for making every genome annotation separate subtask:
 
 ```bash
-#SBATCH --array=1-24032
+#SBATCH --array=1-25352
 DIR=$(sed -n "${SLURM_ARRAY_TASK_ID}p" folders.txt)
 python3 ori_ter_annotation_single.py -f refseq/bacteria/${DIR}
 ```
@@ -29,7 +29,7 @@ Script `3_16s_annotation_single.py` extracts 16S info including locations of sta
 Full slurm script for making every genome annotation separate subtask:
 
 ```bash
-#SBATCH --array=1-24032
+#SBATCH --array=1-25352
 DIR=$(sed -n "${SLURM_ARRAY_TASK_ID}p" folders.txt)
 python3 3_16s_annotation_single.py -f refseq/bacteria/${DIR}
 ```
@@ -51,4 +51,8 @@ Script `4b_make_tables.py` generates tables with necessary information.
 All tables are equipped with `assembly_accession` column for further use.
 
 
+# 5) Relative coordinates
 
+Script `5_16s_relative_coordinates.py` generates table `16S_rel.tsv` with relative coordinates of 16S rRNA instead of absolute in a following way:
+
+![Relative coordinates](figs/rel_coords.svg)
