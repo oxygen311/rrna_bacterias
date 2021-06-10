@@ -1,0 +1,31 @@
+# Assembly name:  ASM381272v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=FDAARGOS_514
+# Taxid:          1314
+# BioSample:      SAMN10163208
+# BioProject:     PRJNA231221
+# Submitter:      US Food and Drug Administration
+# Date:           2018-11-21
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Canu v. 1.4, SPAdes v. 3.6.0
+# Genome coverage: 2536.83088684211x
+# Sequencing technology: PacBio; Illumina
+# GenBank assembly accession: GCA_003812725.1
+# RefSeq assembly accession: GCF_003812725.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_003812735.1	GCF_003812735.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP033815.1	=	NZ_CP033815.1	Primary Assembly	1899746	na
+unnamed	assembled-molecule	unnamed	Plasmid	CP033816.1	=	NZ_CP033816.1	Primary Assembly	2366	na

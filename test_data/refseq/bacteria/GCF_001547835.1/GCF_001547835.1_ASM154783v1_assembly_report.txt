@@ -1,0 +1,29 @@
+# Assembly name:  ASM154783v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=MTB314
+# Taxid:          1314
+# BioSample:      SAMD00000332
+# BioProject:     PRJDB1668
+# Submitter:      Kitasato Institute of Life Sciences
+# Date:           2015-02-24
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 40x
+# Sequencing technology: 454 GS Jr; ABI 3730
+# GenBank assembly accession: GCA_001547835.1
+# RefSeq assembly accession: GCF_001547835.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001547845.1	GCF_001547845.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+Unknown	assembled-molecule	na	Chromosome	AP014585.1	=	NZ_AP014585.1	Primary Assembly	1744827	na

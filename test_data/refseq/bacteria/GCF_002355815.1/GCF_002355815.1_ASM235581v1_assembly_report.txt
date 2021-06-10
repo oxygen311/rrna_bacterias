@@ -1,0 +1,30 @@
+# Assembly name:  ASM235581v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=JMUB1235
+# Taxid:          1314
+# BioSample:      SAMD00057778
+# BioProject:     PRJDB5086
+# Submitter:      Division of Bacteriology, Department of Infection and Immunity, School of Medicine, Jichi Medical University
+# Date:           2016-08-26
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Velvet de novo Assembly v. 1.2.10
+# Genome coverage: 86.9X
+# Sequencing technology: MiSeq;ABI 3730
+# GenBank assembly accession: GCA_002355815.1
+# RefSeq assembly accession: GCF_002355815.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002355825.1	GCF_002355825.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	AP017629.1	=	NZ_AP017629.1	Primary Assembly	1741982	na

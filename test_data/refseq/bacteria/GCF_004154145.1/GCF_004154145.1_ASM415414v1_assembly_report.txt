@@ -1,0 +1,32 @@
+# Assembly name:  ASM415414v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=MGAS28650
+# Taxid:          1314
+# BioSample:      SAMN08562449
+# BioProject:     PRJNA434389
+# Submitter:      Houston Methodist Research Institute
+# Date:           2019-02-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Unicycler/SPAdes/PILON v. 0.4.6/3.12/1.22
+# Expected final version: yes
+# Reference guided assembly: de novo hybrid assembly
+# Genome coverage: 474.7 (71.3 & 403.4)x
+# Sequencing technology: Oxford Nanopore MinION & Illumina NextSeq 500
+# GenBank assembly accession: GCA_004154145.1
+# RefSeq assembly accession: GCF_004154145.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_004154155.1	GCF_004154155.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP031624.1	=	NZ_CP031624.1	Primary Assembly	1851876	na

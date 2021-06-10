@@ -1,0 +1,29 @@
+# Assembly name:  HKU419
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=HKU419
+# Isolate:  HKU419
+# Taxid:          1314
+# BioSample:      SAMEA5096235
+# BioProject:     PRJEB29800
+# Submitter:      Bioplatforms Australia
+# Date:           2019-01-10
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 50x
+# GenBank assembly accession: GCA_900619605.1
+# RefSeq assembly accession: GCF_900619605.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_900619604.1	GCF_900619604.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+HKU419_Chromosome	assembled-molecule	na	Chromosome	LR130238.1	=	NZ_LR130238.1	Primary Assembly	1943295	na

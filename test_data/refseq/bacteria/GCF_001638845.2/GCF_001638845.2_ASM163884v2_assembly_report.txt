@@ -1,0 +1,30 @@
+# Assembly name:  ASM163884v2
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=NS53
+# Taxid:          1314
+# BioSample:      SAMN04625972
+# BioProject:     PRJNA317786
+# Submitter:      University of Notre Dame
+# Date:           2017-01-24
+# Assembly type:  na
+# Release type:   minor
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Newbler v. 2.9
+# Genome coverage: 200
+# Sequencing technology: Illumina MiSeq; 454
+# GenBank assembly accession: GCA_001638845.2
+# RefSeq assembly accession: GCF_001638845.2
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001638855.2	GCF_001638855.2	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP015238.2	=	NZ_CP015238.2	Primary Assembly	1765123	na

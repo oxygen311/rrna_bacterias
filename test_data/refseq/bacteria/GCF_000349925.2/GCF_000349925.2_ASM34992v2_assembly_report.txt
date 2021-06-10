@@ -1,0 +1,30 @@
+# Assembly name:  ASM34992v2
+# Organism name:  Streptococcus pyogenes M1 476 (firmicutes)
+# Infraspecific name:  strain=M1 476
+# Taxid:          1207470
+# BioSample:      SAMD00061013
+# BioProject:     PRJDB141
+# Submitter:      National Center for Global Health and Medicine
+# Date:           2013-07-02
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: GS De Novo Assembler v. 2.6
+# Genome coverage: 20x
+# Sequencing technology: ABI3730xl, Roche 454, Illumina MiSeq
+# GenBank assembly accession: GCA_000349925.2
+# RefSeq assembly accession: GCF_000349925.2
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000349935.2	GCF_000349935.2	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	AP012491.2	=	NC_020540.2	Primary Assembly	1831128	na

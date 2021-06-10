@@ -1,0 +1,28 @@
+# Assembly name:  emm89-1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=H293
+# Taxid:          1314
+# BioSample:      SAMEA3865279
+# BioProject:     PRJEB1935
+# Submitter:      ICL-CFB
+# Date:           2015-06-20
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Genome coverage: 18x
+# GenBank assembly accession: GCA_001039695.2
+# RefSeq assembly accession: GCF_001039695.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001039705.2	GCF_001039705.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	HG316453.2	=	NZ_HG316453.1	Primary Assembly	1726248	na

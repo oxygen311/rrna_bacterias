@@ -1,0 +1,29 @@
+# Assembly name:  ASM235517v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=M3-b
+# Taxid:          1314
+# BioSample:      SAMD00000355
+# BioProject:     PRJDB1740
+# Submitter:      National Center for Global Health and Medicine
+# Date:           2016-02-26
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: GS De Novo Assembler v. 2.7
+# Genome coverage: 20x
+# GenBank assembly accession: GCA_002355175.1
+# RefSeq assembly accession: GCF_002355175.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002355185.1	GCF_002355185.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	AP014596.1	=	NZ_AP014596.1	Primary Assembly	1893821	na

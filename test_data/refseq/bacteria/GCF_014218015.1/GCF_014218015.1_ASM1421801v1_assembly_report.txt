@@ -1,0 +1,31 @@
+# Assembly name:  ASM1421801v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=37-97
+# Taxid:          1314
+# BioSample:      SAMN12251806
+# BioProject:     PRJNA553828
+# Submitter:      Federal University of Rio de Janeiro
+# Date:           2020-08-17
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Newbler v. 3.0
+# Expected final version: yes
+# Genome coverage: 275.0x
+# Sequencing technology: Illumina HiSeq
+# GenBank assembly accession: GCA_014218015.1
+# RefSeq assembly accession: GCF_014218015.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_014218025.1	GCF_014218025.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP041408.1	=	NZ_CP041408.1	Primary Assembly	1918725	na

@@ -1,0 +1,31 @@
+# Assembly name:  ASM381436v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=Duke-Large
+# Taxid:          1314
+# BioSample:      SAMN10416086
+# BioProject:     PRJNA505351
+# Submitter:      UTHSC/McGovern Medical School
+# Date:           2018-11-23
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SPAdes v. 3.10.0
+# Expected final version: yes
+# Genome coverage: 51.0x
+# Sequencing technology: Illumina MiSeq; PacBio
+# GenBank assembly accession: GCA_003814365.1
+# RefSeq assembly accession: GCF_003814365.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_003814375.1	GCF_003814375.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP033907.1	=	NZ_CP033907.1	Primary Assembly	1903852	na

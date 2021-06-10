@@ -1,0 +1,27 @@
+# Assembly name:  ASM1166v1
+# Organism name:  Streptococcus pyogenes MGAS10394 (firmicutes)
+# Infraspecific name:  strain=MGAS10394
+# Taxid:          286636
+# BioSample:      SAMN02603497
+# BioProject:     PRJNA12469
+# Submitter:      Lab of Human Bacterial Pathogenesis
+# Date:           2004-08-03
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000011665.1
+# RefSeq assembly accession: GCF_000011665.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000011675.1	GCF_000011675.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP000003.1	=	NC_006086.1	Primary Assembly	1899877	na

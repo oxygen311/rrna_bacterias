@@ -1,0 +1,1 @@
+../../../../../../refseq/bacteria/GCF_900474835.1/GCF_900474835.1_41800_H02_assembly_report.txt

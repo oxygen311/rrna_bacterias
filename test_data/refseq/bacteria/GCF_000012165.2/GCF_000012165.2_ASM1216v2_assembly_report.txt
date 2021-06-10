@@ -1,0 +1,27 @@
+# Assembly name:  ASM1216v2
+# Organism name:  Streptococcus pyogenes MGAS6180 (firmicutes)
+# Infraspecific name:  strain=MGAS6180
+# Taxid:          319701
+# BioSample:      SAMN02603499
+# BioProject:     PRJNA13887
+# Submitter:      Lab of Human Bacterial Pathogenesis
+# Date:           2019-02-12
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000012165.2
+# RefSeq assembly accession: GCF_000012165.2
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000012175.2	GCF_000012175.2	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP000056.2	=	NC_007296.2	Primary Assembly	1897578	na

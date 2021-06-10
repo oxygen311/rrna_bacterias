@@ -1,0 +1,30 @@
+# Assembly name:  ASM75648v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=M23ND
+# Taxid:          1314
+# BioSample:      SAMN02800743
+# BioProject:     PRJNA248257
+# Submitter:      University of Notre Dame
+# Date:           2014-09-22
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: velvet v. 1.0.18
+# Genome coverage: 200x
+# Sequencing technology: 454; Illumina
+# GenBank assembly accession: GCA_000756485.1
+# RefSeq assembly accession: GCF_000756485.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000756495.1	GCF_000756495.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP008695.1	=	NZ_CP008695.1	Primary Assembly	1846477	na

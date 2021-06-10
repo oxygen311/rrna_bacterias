@@ -1,0 +1,1 @@
+../../../../../../refseq/bacteria/GCF_001021955.1/GCF_001021955.1_ASM102195v1_assembly_stats.txt

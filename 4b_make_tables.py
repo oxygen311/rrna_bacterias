@@ -37,8 +37,7 @@ def get_ori_ter(accession, asm):
     ans = []
     try:
         with open(ori_ter_file) as f:
-            ori, ter, length = json.load(f)
-            ans.append([accession, ori, ter, length])
+            ans.append([accession, *json.load(f)])
     except FileNotFoundError:
         print('Skip (ori/ter):', accession)
         skipped_ori_ter += 1
@@ -53,8 +52,8 @@ def get_16s(accession, asm):
     ans = []
     try:
         with open(ori_ter_file) as f:
-            for st, end, or_ in json.load(f):
-                ans.append([accession, st, end, or_])
+            for j in json.load(f):
+                ans.append([accession, *j])
     except FileNotFoundError:
         print('Skip (16s):', accession)
         skipped_16s += 1
@@ -76,14 +75,14 @@ if __name__ == "__main__":
     species_strain_df = pd.DataFrame(data=species_strain_2d,
                                      columns=['assembly_accession', 'species', 'subsp', 'strain'])
     ori_ter_df = pd.DataFrame(data=ori_ter_2d,
-                              columns=['assembly_accession', 'origin', 'terminus', 'length'])
+                              columns=['assembly_accession', 'seq_id', 'origin', 'terminus', 'repl_1_mean',
+                                       'repl_2_mean', 'c_skew_min', 'c_skew_max', 'length'])
     _16s_df = pd.DataFrame(data=_16s_2d,
                            columns=['assembly_accession', 'start', 'end', 'orientation'])
 
     species_strain_df.to_csv('species_subsp_strain.tsv', index=False, header=True, sep='\t')
     ori_ter_df.to_csv('ori_ter.tsv', index=False, header=True, sep='\t')
     _16s_df.to_csv('16S.tsv', index=False, header=True, sep='\t')
-
 
     print('Skipped 16s:', skipped_16s)
     print('Skipped ori/ter:', skipped_ori_ter)

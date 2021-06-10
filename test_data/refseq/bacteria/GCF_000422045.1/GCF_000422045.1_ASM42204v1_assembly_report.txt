@@ -1,0 +1,30 @@
+# Assembly name:  ASM42204v1
+# Organism name:  Streptococcus pyogenes HSC5 (firmicutes)
+# Infraspecific name:  strain=HSC5
+# Taxid:          1336746
+# BioSample:      SAMN02604317
+# BioProject:     PRJNA205050
+# Submitter:      Washington University in St Louis
+# Date:           2013-07-11
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SeqMan NGen v. 4.0.0
+# Genome coverage: 220X
+# Sequencing technology: 454; Illumina
+# GenBank assembly accession: GCA_000422045.1
+# RefSeq assembly accession: GCF_000422045.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000422055.1	GCF_000422055.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP006366.1	=	NC_021807.1	Primary Assembly	1818351	na

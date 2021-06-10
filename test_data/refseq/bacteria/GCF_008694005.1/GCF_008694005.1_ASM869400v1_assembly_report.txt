@@ -1,0 +1,33 @@
+# Assembly name:  ASM869400v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=FDAARGOS_668
+# Taxid:          1314
+# BioSample:      SAMN11056383
+# BioProject:     PRJNA231221
+# Submitter:      US Food and Drug Administration
+# Date:           2019-09-25
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: SMRT v. 2.3.0, HGAP v. 3, SPAdes v. 3.6.0
+# Genome coverage: 4272.79x
+# Sequencing technology: Pacbio; Illumina
+# GenBank assembly accession: GCA_008694005.1
+# RefSeq assembly accession: GCF_008694005.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_008694015.1	GCF_008694015.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP044093.1	=	NZ_CP044093.1	Primary Assembly	1837758	na
+unnamed1	assembled-molecule	unnamed1	Plasmid	CP044094.1	=	NZ_CP044094.1	Primary Assembly	1330	na
+unnamed2	assembled-molecule	unnamed2	Plasmid	CP044095.1	=	NZ_CP044095.1	Primary Assembly	1229	na
+unnamed3	assembled-molecule	unnamed3	Plasmid	CP044096.1	=	NZ_CP044096.1	Primary Assembly	1029	na

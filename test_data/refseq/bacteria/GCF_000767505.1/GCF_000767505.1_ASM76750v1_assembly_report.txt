@@ -1,0 +1,29 @@
+# Assembly name:  ASM76750v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=7F7
+# Taxid:          1314
+# BioSample:      SAMN02644974
+# BioProject:     PRJNA238516
+# Submitter:      University Rennes1
+# Date:           2014-10-20
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: CLC Genomics workbench v. 6.5.1
+# Sequencing technology: Illumina
+# GenBank assembly accession: GCA_000767505.1
+# RefSeq assembly accession: GCF_000767505.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000767515.1	GCF_000767515.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP007240.1	=	NZ_CP007240.1	Primary Assembly	1709790	na

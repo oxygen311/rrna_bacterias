@@ -1,0 +1,27 @@
+# Assembly name:  ASM30753v1
+# Organism name:  Streptococcus pyogenes A20 (firmicutes)
+# Infraspecific name:  strain=A20
+# Taxid:          1235829
+# BioSample:      SAMN02603640
+# BioProject:     PRJNA175952
+# Submitter:      National Cheng Kung University
+# Date:           2012-10-22
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000307535.1
+# RefSeq assembly accession: GCF_000307535.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000307545.1	GCF_000307545.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP003901.1	=	NC_018936.1	Primary Assembly	1837281	na

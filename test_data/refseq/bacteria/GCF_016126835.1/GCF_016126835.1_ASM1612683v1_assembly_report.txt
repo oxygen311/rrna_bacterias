@@ -1,0 +1,31 @@
+# Assembly name:  ASM1612683v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=emm9ST603
+# Taxid:          1314
+# BioSample:      SAMN17054563
+# BioProject:     PRJNA684347
+# Submitter:      Queensland Health Forensic and Scientific Services
+# Date:           2020-12-20
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: Unicycler v. DEC-2020
+# Expected final version: yes
+# Genome coverage: 100.0x
+# Sequencing technology: Illumina NextSeq; Oxford Nanopore GridION
+# GenBank assembly accession: GCA_016126835.1
+# RefSeq assembly accession: GCF_016126835.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_016126845.1	GCF_016126845.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP065927.1	=	NZ_CP065927.1	Primary Assembly	1862424	na

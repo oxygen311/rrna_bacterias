@@ -1,0 +1,27 @@
+# Assembly name:  ASM1348v1
+# Organism name:  Streptococcus pyogenes MGAS9429 (firmicutes)
+# Infraspecific name:  strain=MGAS9429
+# Taxid:          370551
+# BioSample:      SAMN02603501
+# BioProject:     PRJNA16363
+# Submitter:      Lab of Human Bacterial Pathogenesis
+# Date:           2006-05-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# GenBank assembly accession: GCA_000013485.1
+# RefSeq assembly accession: GCF_000013485.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000013495.1	GCF_000013495.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP000259.1	=	NC_008021.1	Primary Assembly	1836467	na

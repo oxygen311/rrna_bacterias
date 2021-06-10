@@ -1,0 +1,31 @@
+# Assembly name:  ASM413587v1
+# Organism name:  Streptococcus pyogenes (firmicutes)
+# Infraspecific name:  strain=M75
+# Taxid:          1314
+# BioSample:      SAMN10397505
+# BioProject:     PRJNA504701
+# Submitter:      University of Melbourne
+# Date:           2019-02-04
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: PacBio SMRT Pipe v. 2.3.0
+# Expected final version: yes
+# Genome coverage: 105.0x
+# Sequencing technology: PacBio
+# GenBank assembly accession: GCA_004135875.1
+# RefSeq assembly accession: GCF_004135875.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_004135885.1	GCF_004135885.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ANONYMOUS	assembled-molecule	na	Chromosome	CP033621.1	=	NZ_CP033621.1	Primary Assembly	1852894	na
