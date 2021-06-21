@@ -235,23 +235,28 @@ def symmetry_2_copies(rand_size=1000000):
     for asm, df_asm in df_16s.groupby('assembly_accession'):
         assert len(df_asm) == 2
 
-        ps = df_asm.rel_center.to_numpy()
-        ds.append(['real', ps[0] + ps[1]])
+        r1, r2 = df_asm.rel_center
+        if (r1 > 0 and r2 > 0) or (r1 < 0 and r2 < 0): continue
+
+        r = abs(abs(r1) - abs(r2))
+        ds.append(['real', r])
 
     rnd1 = np.random.rand(rand_size) * 2 - 1
     rnd2 = np.random.rand(rand_size) * 2 - 1
-    for rnd in rnd1 + rnd2:
-        ds.append(['random', rnd])
+    for r1, r2 in zip(rnd1, rnd2):
+        if (r1 > 0 and r2 > 0) or (r1 < 0 and r2 < 0): continue
+        r = abs(abs(r1) - abs(r2))
+        ds.append(['random', r])
 
     rel_coords_df = pd.DataFrame(data=ds,
                                  columns=['type', 'symmetry'])
-    sns.histplot(data=rel_coords_df, x='symmetry', bins=bins_grp, hue='type', stat='density',
+    sns.histplot(data=rel_coords_df, x='symmetry', hue='type', stat='density',
                  element="step", common_norm=False)
 
     plt.tight_layout()
-    plt.xlim(xmin=-1, xmax=1)
+    plt.xlim(xmin=0, xmax=1)
 
-    plt.savefig(f'charts/symmetry_2_copies_density.pdf')
+    plt.savefig(f'charts/symmetry_2_copies_density_v2.pdf')
     plt.show()
 
 
@@ -270,16 +275,16 @@ def copies_repl1_repl2():
     repr_12_df = pd.DataFrame(data=repr_12_2d, columns=['repl1', 'repl2'])
 
     repr_count_df = repr_12_df.groupby(['repl1', 'repl2']).size().reset_index(name='counts')
-    repr_count_df = repr_count_df[repr_count_df.counts > 50]
+    # repr_count_df = repr_count_df[repr_count_df.counts > 50]
     repr_count_df = repr_count_df.pivot("repl1", "repl2", "counts")
 
     sns.heatmap(data=repr_count_df, cmap='rocket_r')
 
     plt.tight_layout()
-    plt.savefig('repl1_repl2_count_heatmap.pdf')
+    plt.savefig('charts/repl1_repl2_count_heatmap.pdf')
     plt.show()
 
 
 if __name__ == "__main__":
     sns.set_style('whitegrid')
-    has_tandem_distribution()
+    symmetry_2_copies()
