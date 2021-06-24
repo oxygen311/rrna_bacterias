@@ -2,7 +2,10 @@ import pandas as pd
 import numpy as np
 
 
+cnt1, cnt2 = 0, 0
+
 def relative_coordinates(start, end, origin, terminus, length):
+    global cnt1, cnt2
     def get_relative_position(loc, s_terminus):
         return loc / s_terminus if loc < s_terminus else - (length - loc) / (length - s_terminus)
 
@@ -13,7 +16,10 @@ def relative_coordinates(start, end, origin, terminus, length):
     rel_start = get_relative_position(s_start, s_terminus)
     rel_end = get_relative_position(s_end, s_terminus)
 
-    return rel_start, rel_end
+    l = (rel_end - rel_start) % 2
+    rel_center = (rel_start + l / 2 + 1) % 2 - 1
+
+    return rel_start, rel_center, rel_end
 
 
 def is_tandem_annotation(df, threshhold=1e4):
@@ -41,6 +47,7 @@ if __name__ == "__main__":
 
     df_ori_ter = pd.read_csv('ori_ter.tsv', sep='\t')
     df = pd.merge(df_16s, df_ori_ter, on='assembly_accession')
+    df = df[abs(df.end - df.start + df.length) % df.length < 10000]
 
     is_tandem_annotation(df)
 
@@ -49,6 +56,7 @@ if __name__ == "__main__":
                          df.has_tandem)]
 
     rel_coords_df = pd.DataFrame(data=rel_coords_2d,
-                                 columns=['assembly_accession', 'rel_start', 'rel_end', 'orientation', 'has_tandem'])
+                                 columns=['assembly_accession', 'rel_start', 'rel_center', 'rel_end', 'orientation',
+                                          'has_tandem'])
 
     rel_coords_df.to_csv('16S_rel.tsv', index=False, header=True, sep='\t')
