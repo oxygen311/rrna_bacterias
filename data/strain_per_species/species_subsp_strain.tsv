@@ -1,0 +1,188 @@
+assembly_accession	species	subsp	strain
+GCF_002151465.1	Borreliella burgdorferi		PAli yes
+GCF_009017435.1	Treponema pallidum		UW-148B
+GCF_009858015.1	Leptospira borgpetersenii		R29
+GCF_000954195.1	Campylobacter coli		FB1
+GCF_011600945.2	Campylobacter fetus		CFF00A031
+GCF_001298465.1	Campylobacter concisus		ATCC 33237
+GCF_000740155.1	Brucella abortus		BER
+GCF_002025665.1	Chryseobacterium indologenes		AA5
+GCF_001412545.1	Francisella tularensis		T01
+GCF_000750905.1	Pseudomonas aeruginosa		PSE305
+GCF_009586235.1	Burkholderia cepacia		BC16
+GCF_000730425.1	Pseudomonas fluorescens		UK4
+GCF_003515345.1	Ralstonia solanacearum		SL3755
+GCF_000219605.1	Pseudomonas stutzeri		CGMCC 1.1803
+GCF_016694755.2	Pseudomonas syringae		BIM B-268
+GCF_004319485.1	Xanthomonas oryzae		BB151-3
+GCF_001941585.1	Legionella pneumophila		Philadelphia-1 AE
+GCF_002116925.1	Acinetobacter baumannii		ab736
+GCF_001047275.1	Neisseria gonorrhoeae		35/02
+GCF_008330805.1	Neisseria meningitidis		11-7
+GCF_001641975.2	Alcaligenes faecalis		P156
+GCF_900636925.1	Bordetella bronchiseptica		NCTC10543
+GCF_003812345.1	Citrobacter freundii		FDAARGOS_549
+GCF_900637945.1	Klebsiella aerogenes		NCTC9735
+GCF_000770155.1	Enterobacter cloacae		GGT036
+GCF_013892435.1	Escherichia fergusonii		RHB19-C05
+GCF_001022115.1	Klebsiella oxytoca		CAV1335
+GCF_000783955.2	Morganella morganii		FDAARGOS_63
+GCF_003204135.1	Providencia rettgeri		AR_0082
+GCF_000754345.1	Providencia stuartii		ATCC 33672
+GCF_000783915.2	Serratia marcescens		FDAARGOS_65
+GCF_000987925.1	Yersinia enterocolitica		FORC_002
+GCF_000834235.1	Yersinia pestis		PBM19
+GCF_000750315.1	Yersinia pseudotuberculosis		ATCC 6904
+GCF_017310215.1	Aeromonas hydrophila		OnP3.1
+GCF_012931585.1	Aeromonas salmonicida		SRW-OG1
+GCF_000783775.2	Aeromonas caviae		FDAARGOS_72
+GCF_014161425.1	Aeromonas media		WP7-W18-ESBL-02
+GCF_008693705.1	Aeromonas veronii		FDAARGOS_632
+GCF_001469735.1	Vibrio alginolyticus		ATCC 33787
+GCF_004006515.1	Vibrio parahaemolyticus		VPD14
+GCF_000746665.1	Vibrio vulnificus		93U204
+GCF_001558415.2	Vibrio fluvialis		FDAARGOS_104
+GCF_003312585.1	Vibrio campbellii		DS40M4
+GCF_000767075.1	Haemophilus influenzae		Hi375
+GCF_003390455.1	Haemophilus parainfluenzae		M27794
+GCF_002162195.1	Histophilus somni		USDA-ARS-USMARC-63255
+GCF_003061265.1	Pasteurella multocida		20N
+GCF_001572745.1	Coxiella burnetii		3262
+GCF_013460375.1	Ehrlichia ruminantium		Springbokfontein7
+GCF_001286525.1	Bacteroides fragilis		BE1
+GCF_014844295.1	Flavobacterium columnare		F2S17
+GCF_001746795.1	Piscirickettsia salmonis		AY3800B
+GCF_002370415.1	Leuconostoc mesenteroides		LK-151
+GCF_013127755.1	Pediococcus acidilactici		PMC65
+GCF_000597965.1	Staphylococcus aureus		502A RN6607
+GCF_003856455.1	Staphylococcus epidermidis		CDC121
+GCF_000448685.2	Streptococcus salivarius		HSISS4
+GCF_001610935.1	Streptococcus suis		90-1330
+GCF_001558215.1	Streptococcus mutans		NG8 Dental Plaque
+GCF_900638415.1	Streptococcus agalactiae		NCTC13949
+GCF_000817005.1	Streptococcus pneumoniae		NT_110_58
+GCF_001267845.1	Streptococcus pyogenes		NGAS638
+GCF_901543725.1	Streptococcus dysgalactiae		NCTC6403
+GCF_001598635.1	Enterococcus faecalis		LD33
+GCF_001298485.1	Enterococcus faecium		64/3 human patient
+GCF_002278015.2	Enterococcus hirae		FDAARGOS_234
+GCF_016406265.1	Lactococcus lactis		WiKim0098
+GCF_002078895.1	Lactococcus cremoris		JM1
+GCF_013122255.1	Bacillus amyloliquefaciens		WF02
+GCF_000876545.1	Weizmannia coagulans		HM-08
+GCF_002009195.1	Priestia megaterium		JX285
+GCF_000785455.1	Paenibacillus polymyxa		CF05
+GCF_000590455.1	Bacillus pumilus		B6033
+GCF_002982115.1	Lysinibacillus sphaericus		DSM 28
+GCF_000832485.1	Bacillus thuringiensis		HD1011
+GCF_003058345.1	Clostridium botulinum		DFPST0029
+GCF_003315755.1	Clostridium butyricum		S-45-5
+GCF_002007885.1	Clostridioides difficile		BR81
+GCF_900475625.1	Levilactobacillus brevis		NCTC13768
+GCF_003269405.1	Lactiplantibacillus plantarum		SK151
+GCF_000019245.4	Lacticaseibacillus paracasei		Zhang
+GCF_015377805.1	Limosilactobacillus reuteri		TK-F8A
+GCF_009676365.1	Latilactobacillus sakei		CBA3614
+GCF_001742205.1	Limosilactobacillus fermentum		NCC2970
+GCF_001457455.1	Corynebacterium diphtheriae		NCTC11397
+GCF_000742715.1	Corynebacterium glutamicum		ATCC 21831
+GCF_000695895.1	Bifidobacterium animalis		RH
+GCF_002763715.1	Prevotella intermedia		KCOM 1949
+GCF_000756125.1	Burkholderia pseudomallei		Mahidol-1106a
+GCF_001043135.1	Mycoplasma bovis		NM 2012 pathogen isolation, culture and biochemical identification method
+GCF_003263915.2	Dolosigranulum pigrum		KPL1914
+GCF_003323815.1	Acinetobacter haemolyticus		HW-2A
+GCF_001715465.1	Brucella melitensis		2010724553
+GCF_002176835.1	Lactobacillus johnsonii		UMNLJ22
+GCF_001704215.1	Bordetella holmesii		H903
+GCF_001606295.1	Mycobacteroides abscessus		FLAC013
+GCF_009730655.1	Shewanella algae		RQs-106
+GCF_015689455.1	Streptococcus equi	zooepidemicus	SEZ33
+GCF_003335165.1	Acinetobacter johnsonii		LXL_C1
+GCF_002073495.2	Leptospira interrogans		serovar Copenhageni FDAARGOS_203
+GCF_002741785.1	Borrelia miyamotoi		Yekat-1
+GCF_001590655.1	Lacticaseibacillus rhamnosus		ASCC 290
+GCF_013457875.1	Raoultella ornithinolytica		172117885
+GCF_006113225.1	Salmonella bongori		85-0051
+GCF_000786425.1	Vibrio anguillarum		NB10
+GCF_000808035.2	Burkholderia thailandensis		2003015869
+GCF_001610775.1	Dehalococcoides mccartyi		11a5
+GCF_001521715.1	Enterobacter asburiae		ATCC 35953
+GCF_900187135.1	Corynebacterium ulcerans		NCTC7910
+GCF_001457555.1	Fusobacterium nucleatum	polymorphum	NCTC10562
+GCF_000195955.2	Mycobacterium tuberculosis		H37Rv
+GCF_900149625.2	Chlamydia suis		5-27b
+GCF_006740305.1	Lactobacillus delbrueckii	delbrueckii	NBRC 3202
+GCF_001457475.1	Achromobacter xylosoxidans		NCTC10807
+GCF_001718895.1	Burkholderia cenocepacia		MSMB384WGS
+GCF_000006945.2	Salmonella enterica	enterica serovar Typhimurium	
+GCF_006770325.1	Bordetella hinzii		SV2
+GCF_001308145.2	Weissella cibaria		CH2
+GCF_001022015.1	Enterobacter hormaechei		CAV1311
+GCF_000196035.1	Listeria monocytogenes		EGD-e
+GCF_009873295.1	Pectobacterium brasiliense		1692
+GCF_000007205.1	Chlamydia pneumoniae		TW-183
+GCF_000007245.1	Xylella fastidiosa		Temecula1
+GCF_000009085.1	Campylobacter jejuni	jejuni NCTC 11168 = ATCC 700819	NCTC 11168
+GCF_000013285.1	Clostridium perfringens		ATCC 13124
+GCF_000006925.2	Shigella flexneri		2a str. 301
+GCF_003403135.1	Dickeya dianthicola		ME23
+GCF_002887555.1	Dickeya zeae		MS2
+GCF_000286275.1	Enterobacter kobei		ENHKU01
+GCF_001549955.1	Escherichia albertii		EC06-170
+GCF_002892185.1	Phaeobacter inhibens		P54
+GCF_009731575.1	Akkermansia muciniphila		JCM 30893
+GCF_000006685.1	Chlamydia muridarum		str. Nigg
+GCF_013305245.1	Klebsiella variicola		FH-1
+GCF_000012685.1	Myxococcus xanthus		DK 1622
+GCF_000008445.1	Bacillus anthracis		str. 'Ames Ancestor' Ames Ancestor; A2084
+GCF_000008345.1	Cutibacterium acnes		KPA171202
+GCF_000008725.1	Chlamydia trachomatis		D/UW-3/CX
+GCF_000014505.1	Pediococcus pentosaceus		ATCC 25745
+GCF_000011645.1	Bacillus licheniformis		DSM 13 = ATCC 14580 ATCC 14580; DSM 13
+GCF_000972685.1	Bacillus altitudinis		W3
+GCF_000239975.1	Enterobacter ludwigii		EcWSU1
+GCF_000019205.1	Campylobacter lari		RM2100; ATCC BAA-1060D
+GCF_009759785.1	Alteromonas mediterranea		AltCH17
+GCF_000204255.1	Chlamydia psittaci		6BC
+GCF_000008865.2	Escherichia coli		O157:H7 str. Sakai Sakai substr. RIMD 0509952
+GCF_000021205.1	Bacillus cereus		B4264
+GCF_002117165.1	Bacillus velezensis		CBMB205
+GCF_000069965.1	Proteus mirabilis		HI4320
+GCF_000144405.1	Prevotella melaninogenica		ATCC 25845
+GCF_002250945.2	Bacillus cytotoxicus		CH_13
+GCF_014524625.1	Pseudomonas chlororaphis		qlu-1
+GCF_011045835.1	Proteus terrae	cibarius	ZN2
+GCF_900637025.1	Streptococcus oralis		ATCC 35037 NCTC 11427
+GCF_000091565.1	Erwinia amylovora		CFBP1430 CFPB1430
+GCF_000144675.2	Corynebacterium pseudotuberculosis		C231
+GCF_000178875.2	Shewanella baltica		OS678
+GCF_006094475.1	Bacillus subtilis	spizizenii ATCC 6633 = JCM 2499	ATCC 6633
+GCF_002953575.2	Acinetobacter indicus		SGAir0564
+GCF_000214235.1	Serratia plymuthica		AS9
+GCF_000191145.1	Acinetobacter pittii		PHEA-2
+GCF_001891145.1	Staphylococcus argenteus		BN75
+GCF_000959525.1	Burkholderia multivorans		ATCC BAA-247
+GCF_000213905.2	Chlamydia abortus		LLG
+GCF_000253395.1	Streptococcus thermophilus		JIM 8232
+GCF_000576145.2	Granulibacter bethesdensis		CGDNIH4
+GCF_000224555.1	Helicobacter pylori		Puno135
+GCF_900560965.1	Pseudomonas protegens		CHA0
+GCF_000240185.1	Klebsiella pneumoniae	pneumoniae HS11286	HS11286
+GCF_014217275.1	Klebsiella michiganensis		AKKL-001
+GCF_000286675.1	Mycoplasma gallisepticum		VA94_7994-1-7P
+GCF_000412675.1	Pseudomonas putida		NBRC 14164
+GCF_001644705.1	Dickeya solani		IPO 2222
+GCF_000092265.1	Moraxella catarrhalis		BBH18
+GCF_000723785.2	Acetobacter pasteurianus		386B
+GCF_000505725.1	Francisella orientalis		LADL--07-285A
+GCF_000439735.1	Mannheimia haemolytica		USMARC_2286
+GCF_000829215.1	Vibrio cholerae		MS6
+GCF_016415705.1	Klebsiella quasipneumoniae		KqPF26
+GCF_016064815.1	Acinetobacter seifertii		S21
+GCF_008693605.1	Citrobacter portucalensis		FDAARGOS_617
+GCF_002993925.1	Bacillus paralicheniformis		Bac84
+GCF_001729805.1	Enterobacter roggenkampii		DSM 16690
+GCF_001742145.1	Pectobacterium parmentieri		RNS 08-42-1A
+GCF_004104525.2	Klebsiella grimontii		SS141
+GCF_006363895.1	Methylopumilus universalis		MMS-RVI-51

@@ -76,7 +76,7 @@ def boxplot():
     plt.show()
 
 
-def histogram_grouped_16s_copies():
+def histogram_grouped_16s_copies(min_stains=0):
     df_16s = pd.read_csv('16S_rel.tsv', sep='\t')
     annotate_16s_copies(df_16s, dict_16s_copies(df_16s))
 
@@ -87,7 +87,7 @@ def histogram_grouped_16s_copies():
 
     for copies, df_copies in df.groupby('16s_copies'):
         strains = len(df_copies.assembly_accession.unique())
-        if strains < 50: continue
+        if strains < min_stains: continue
         print(copies, len(df_copies))
 
         plt.title(f'{copies} copies, {strains} strains')
@@ -119,7 +119,7 @@ def leading_lagging_strand():
     plt.show()
 
 
-def rank_copies_histogram():
+def rank_copies_histogram(min_strains=0):
     def rank_copies_from_origin():
         def make_rank(aas):
             curr_aa, rank, ans = '', 0, []
@@ -144,24 +144,24 @@ def rank_copies_histogram():
     df_16s = rank_copies_from_origin()
     for copies, df_copies in df_16s.groupby('16s_copies'):
         strains = len(df_copies.assembly_accession.unique())
-        if strains < 50: continue
+        if strains < min_strains: continue
         print(copies, len(df_copies))
 
         plt.title(f'{copies} copies, {strains} strains')
 
-        # sns.histplot(data=df_copies, x='rel_center_abs', bins=bins_grp, hue='rankk', stat='density',
-        #                            element="step", common_norm=False, palette='Set1')
-        # plt.xlim(xmin=0, xmax=1)
+        sns.histplot(data=df_copies, x='rel_center_abs', bins=bins_grp, hue='rankk', stat='density',
+                                   element="step", common_norm=False, palette='Set1')
+        plt.xlim(xmin=0, xmax=1)
 
-        sns.violinplot(data=df_copies, y='rel_center_abs', x='rankk', common_norm=False, palette='Set1')
+        # sns.violinplot(data=df_copies, y='rel_center_abs', x='rankk', common_norm=False, palette='Set1')
 
         plt.tight_layout()
 
-        plt.savefig(f'charts/rank_copies_by_16s_copies/{str(copies).zfill(2)}_copies_{strains}_strains_vionil.pdf')
+        plt.savefig(f'charts/rank_copies_by_16s_copies/{str(copies).zfill(2)}_copies_{strains}_strains_hist.pdf')
         plt.show()
 
 
-def min_dist_btw_copies():
+def min_dist_btw_copies(min_strains=0):
     def min_dist():
         aa_to_min_dist = {}
 
@@ -185,7 +185,7 @@ def min_dist_btw_copies():
 
     for copies, df_copies in df.groupby('16s_copies'):
         strains = len(df_copies.assembly_accession.unique())
-        if strains < 50: continue
+        if strains < min_strains: continue
         print(copies, len(df_copies))
 
         plt.title(f'{copies} copies, {strains} strains')
@@ -207,17 +207,17 @@ def has_tandem_distribution():
     print(df_16s.columns)
     print(df_16s)
 
-    # sns.histplot(data=df_16s, x='rel_center_abs', bins=bins_grp, hue='has_tandem', stat='density',
-    #              element="step", common_norm=False)
+    sns.histplot(data=df_16s, x='rel_center_abs', bins=bins_grp, hue='has_tandem', stat='density',
+                 element="step", common_norm=False)
 
-    sns.histplot(data=df_16s, x='rel_center_abs', bins=bins_grp, hue='has_tandem', element="step")
+    # sns.histplot(data=df_16s, x='rel_center_abs', bins=bins_grp, hue='has_tandem', element="step")
 
     plt.title(Counter(df_16s.has_tandem))
 
     plt.tight_layout()
     plt.xlim(xmin=0, xmax=1)
 
-    plt.savefig(f'charts/has_tandem_hist.pdf')
+    plt.savefig(f'charts/has_tandem_density.pdf')
     plt.show()
 
 
@@ -314,14 +314,14 @@ def calculate_diff_df(df):
     return calculate_diff_symmetry(ps, ns)
 
 
-def symmetry_grouped_by_pairs(tries=100000):
+def symmetry_grouped_by_pairs(tries=100000, min_strains=2):
     df_16s = pd.read_csv('16S_rel.tsv', sep='\t')
 
     annotate_repl1_repl2_counts(df_16s)
 
     for (repl1, repl2), df_repl in df_16s.groupby(['repl1', 'repl2']):
         asm_count = len(df_repl.assembly_accession.unique())
-        if repl1 == 0 or repl2 == 0 or asm_count < 20: continue
+        if repl1 == 0 or repl2 == 0 or asm_count < min_strains: continue
         print(repl1, repl2)
 
         ds = []
@@ -404,4 +404,4 @@ def symmetry_grouped_by_species(tries=10000):
 
 if __name__ == "__main__":
     sns.set_style('whitegrid')
-    symmetry_grouped_by_species()
+    histogram_grouped_16s_copies()
