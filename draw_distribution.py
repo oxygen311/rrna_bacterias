@@ -402,6 +402,21 @@ def symmetry_grouped_by_species(tries=10000):
     stats_tab_df.to_csv('charts/symmetry_groupby_species/stat_table.tsv', index=False, header=True, sep='\t')
 
 
+def species_std():
+    df_16s = pd.read_csv('16S.tsv', sep='\t')
+    df_sp = pd.read_csv('species_subsp_strain.tsv', sep='\t')
+
+    df = pd.merge(df_16s, df_sp, on='assembly_accession')
+
+    for species, df_species in df.groupby('species'):
+
+        strains = len(df_species.assembly_accession.unique())
+        if strains < 25: continue
+
+        copies = [len(df_strain) for strain, df_strain in df_species.groupby('assembly_accession')]
+        print(species, strains, np.mean(copies), np.std(copies), sep='\t')
+
+
 if __name__ == "__main__":
     sns.set_style('whitegrid')
-    histogram_grouped_16s_copies()
+    species_std()

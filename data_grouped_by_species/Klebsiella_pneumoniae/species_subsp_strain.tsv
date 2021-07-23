@@ -1,0 +1,840 @@
+assembly_accession	species	subsp	strain
+GCF_000364385.3	Klebsiella pneumoniae		ATCC BAA-2146
+GCF_000739495.1	Klebsiella pneumoniae		carbapenem-resistant blaNDM-1
+GCF_000764615.1	Klebsiella pneumoniae		PMK1
+GCF_000775955.1	Klebsiella pneumoniae		XH209
+GCF_000814305.1	Klebsiella pneumoniae		34618
+GCF_001022035.1	Klebsiella pneumoniae		CAV1392
+GCF_001022175.1	Klebsiella pneumoniae		CAV1344
+GCF_001022235.1	Klebsiella pneumoniae		CAV1596
+GCF_001307175.1	Klebsiella pneumoniae		KP617
+GCF_001455995.1	Klebsiella pneumoniae		MS6671
+GCF_001456055.3	Klebsiella pneumoniae		KpN01
+GCF_001456095.3	Klebsiella pneumoniae		KpN06
+GCF_001456135.1	Klebsiella pneumoniae		CAV1193
+GCF_001463165.1	Klebsiella pneumoniae		U25
+GCF_001548315.1	Klebsiella pneumoniae		YH43
+GCF_001644765.1	Klebsiella pneumoniae		SKGH01
+GCF_001646625.1	Klebsiella pneumoniae		W14
+GCF_001648215.1	Klebsiella pneumoniae		AATZP
+GCF_001663195.1	Klebsiella pneumoniae		BR
+GCF_001663295.1	Klebsiella pneumoniae		KPNIH39
+GCF_001663435.1	Klebsiella pneumoniae		Kpn223
+GCF_001663455.1	Klebsiella pneumoniae		Kpn555
+GCF_001675125.1	Klebsiella pneumoniae		KPNIH36
+GCF_001676825.1	Klebsiella pneumoniae		TH1
+GCF_001701425.2	Klebsiella pneumoniae		1_GR_13
+GCF_001701835.2	Klebsiella pneumoniae		16_GR_13
+GCF_001701845.2	Klebsiella pneumoniae		20_GR_12
+GCF_001702045.2	Klebsiella pneumoniae		2_GR_12
+GCF_001704235.1	Klebsiella pneumoniae		DHQP1002001
+GCF_001705385.1	Klebsiella pneumoniae		blood sample 2
+GCF_001708225.1	Klebsiella pneumoniae		ED23
+GCF_001709275.1	Klebsiella pneumoniae		11
+GCF_001709295.1	Klebsiella pneumoniae		23
+GCF_001721725.1	Klebsiella pneumoniae		UCLAOXA232KP_Pt0
+GCF_001741545.1	Klebsiella pneumoniae		UCLAOXA232KP
+GCF_001741665.1	Klebsiella pneumoniae		UCLAOXA232KP
+GCF_001855315.1	Klebsiella pneumoniae		KP5
+GCF_001870165.1	Klebsiella pneumoniae		CAV1016
+GCF_001885255.2	Klebsiella pneumoniae		Kp_Goe_822579
+GCF_001887985.3	Klebsiella pneumoniae		WCHKP649
+GCF_001887995.2	Klebsiella pneumoniae		WCHKP095845
+GCF_001902195.1	Klebsiella pneumoniae		MNCRE78
+GCF_001902215.1	Klebsiella pneumoniae		MNCRE69
+GCF_001902235.1	Klebsiella pneumoniae		MNCRE53
+GCF_001902255.1	Klebsiella pneumoniae		CAV1453
+GCF_001902335.1	Klebsiella pneumoniae		Kp_Goe_154414
+GCF_001902355.1	Klebsiella pneumoniae		Kp_Goe_62629
+GCF_001902415.1	Klebsiella pneumoniae		Kp_Goe_822917
+GCF_001902435.1	Klebsiella pneumoniae		Kp_Goe_33208
+GCF_001902475.1	Klebsiella pneumoniae		SWU01
+GCF_001902515.1	Klebsiella pneumoniae		Kp_Goe_71070
+GCF_001902535.1	Klebsiella pneumoniae		CAV1417
+GCF_001908515.1	Klebsiella pneumoniae		CAV1042
+GCF_001908595.1	Klebsiella pneumoniae		Kp_Goe_149473
+GCF_001908625.1	Klebsiella pneumoniae		Kp_Goe_827024
+GCF_001908655.1	Klebsiella pneumoniae		Kp_Goe_827026
+GCF_001908675.1	Klebsiella pneumoniae		Kp_Goe_152021
+GCF_001908695.1	Klebsiella pneumoniae		KP_Goe_828304
+GCF_001908715.1	Klebsiella pneumoniae		CAV1217
+GCF_001908875.1	Klebsiella pneumoniae		Kp_Goe_149832
+GCF_001908895.1	Klebsiella pneumoniae		Kp_Goe_821588
+GCF_001913175.1	Klebsiella pneumoniae		Kp_Goe_121641
+GCF_001922465.1	Klebsiella pneumoniae		AR_0049
+GCF_001936035.1	Klebsiella pneumoniae		ATCC 35657
+GCF_001939885.2	Klebsiella pneumoniae		GN-2
+GCF_001952835.1	Klebsiella pneumoniae		1756
+GCF_001952875.1	Klebsiella pneumoniae		CN1
+GCF_001952895.1	Klebsiella pneumoniae		NY9
+GCF_001952915.1	Klebsiella pneumoniae		CR14
+GCF_001956965.1	Klebsiella pneumoniae		825795-1
+GCF_002055765.1	Klebsiella pneumoniae		AR_0117
+GCF_002055855.1	Klebsiella pneumoniae		AR_0068
+GCF_002056385.1	Klebsiella pneumoniae		AR_0115
+GCF_002056475.1	Klebsiella pneumoniae		AR_0098
+GCF_002113865.1	Klebsiella pneumoniae		K66-45
+GCF_002116885.1	Klebsiella pneumoniae		kp757
+GCF_002156725.1	Klebsiella pneumoniae		BK13043
+GCF_002156745.1	Klebsiella pneumoniae		KPN1482
+GCF_002156785.1	Klebsiella pneumoniae		KPN528
+GCF_002164855.2	Klebsiella pneumoniae		SCKP020003
+GCF_002180075.1	Klebsiella pneumoniae		AR_0047
+GCF_002180155.1	Klebsiella pneumoniae		AR_0112
+GCF_002180175.1	Klebsiella pneumoniae		AR_0146
+GCF_002180255.1	Klebsiella pneumoniae		AR_0158
+GCF_002180295.1	Klebsiella pneumoniae		AR_0129
+GCF_002180315.1	Klebsiella pneumoniae		AR_0143
+GCF_002192315.1	Klebsiella pneumoniae		AR_0126
+GCF_002192335.1	Klebsiella pneumoniae		AR_0113
+GCF_002192375.1	Klebsiella pneumoniae		AR_0138
+GCF_002197225.1	Klebsiella pneumoniae		AR_0120
+GCF_002197505.1	Klebsiella pneumoniae		AR_0125
+GCF_002202215.1	Klebsiella pneumoniae		AR_0145
+GCF_002202235.1	Klebsiella pneumoniae		AR_0152
+GCF_002202255.1	Klebsiella pneumoniae		AR_0148
+GCF_002202275.1	Klebsiella pneumoniae		AR_0107
+GCF_002209405.1	Klebsiella pneumoniae		19051
+GCF_002211665.1	Klebsiella pneumoniae		704SK6
+GCF_002211905.1	Klebsiella pneumoniae		DHQP1605752_NV
+GCF_002243445.1	Klebsiella pneumoniae		BIC-1
+GCF_002257765.2	Klebsiella pneumoniae		WCHKP2080
+GCF_002257935.3	Klebsiella pneumoniae		WCHKP13F2
+GCF_002258055.2	Klebsiella pneumoniae		WCHKP7E2
+GCF_002258145.3	Klebsiella pneumoniae		WCHKP8F4
+GCF_002269295.1	Klebsiella pneumoniae		911021
+GCF_002278055.1	Klebsiella pneumoniae		721005
+GCF_002386225.2	Klebsiella pneumoniae		FDAARGOS_445
+GCF_002587165.1	Klebsiella pneumoniae		FDAARGOS_444
+GCF_002587885.1	Klebsiella pneumoniae		FDAARGOS_446
+GCF_002591075.1	Klebsiella pneumoniae		FDAARGOS_439
+GCF_002635725.1	Klebsiella pneumoniae		FDAARGOS_440
+GCF_002636095.1	Klebsiella pneumoniae		FDAARGOS_436
+GCF_002636215.1	Klebsiella pneumoniae		FDAARGOS_447
+GCF_002636375.1	Klebsiella pneumoniae		FDAARGOS_442
+GCF_002741685.1	Klebsiella pneumoniae		KSB1_5D
+GCF_002752775.1	Klebsiella pneumoniae		INF249
+GCF_002752905.1	Klebsiella pneumoniae		KSB1_7E
+GCF_002752955.1	Klebsiella pneumoniae		QS17-0161
+GCF_002752995.1	Klebsiella pneumoniae		INF042
+GCF_002753055.1	Klebsiella pneumoniae		INF158
+GCF_002753075.1	Klebsiella pneumoniae		INF157
+GCF_002753165.1	Klebsiella pneumoniae		KSB1_9D
+GCF_002753355.1	Klebsiella pneumoniae		INF059
+GCF_002753375.1	Klebsiella pneumoniae		KSB1_7J
+GCF_002753405.1	Klebsiella pneumoniae		INF163
+GCF_002753555.1	Klebsiella pneumoniae		INF164
+GCF_002761315.1	Klebsiella pneumoniae		P1428
+GCF_002786755.1	Klebsiella pneumoniae		CRKP-1215
+GCF_002787755.1	Klebsiella pneumoniae		CRKP-2297
+GCF_002811325.2	Klebsiella pneumoniae		WCHKP36
+GCF_002811335.3	Klebsiella pneumoniae		WCHKP020034
+GCF_002812365.1	Klebsiella pneumoniae		AUSMDU00003562
+GCF_002812385.1	Klebsiella pneumoniae		AUSMDU00008119
+GCF_002812665.1	Klebsiella pneumoniae		NU-CRE047
+GCF_002813595.1	Klebsiella pneumoniae		SGH10
+GCF_002814015.1	Klebsiella pneumoniae		Klebsiella pneumoniae 459
+GCF_002831525.1	Klebsiella pneumoniae		KP6
+GCF_002833425.1	Klebsiella pneumoniae		NR5632
+GCF_002833445.1	Klebsiella pneumoniae		KP1768
+GCF_002833465.1	Klebsiella pneumoniae		KP1766
+GCF_002845865.1	Klebsiella pneumoniae		KP8
+GCF_002845885.1	Klebsiella pneumoniae		KP11
+GCF_002845905.1	Klebsiella pneumoniae		KP9
+GCF_002845925.1	Klebsiella pneumoniae		KP10
+GCF_002845945.1	Klebsiella pneumoniae		KP14
+GCF_002845965.1	Klebsiella pneumoniae		KP7
+GCF_002848545.1	Klebsiella pneumoniae		KP69
+GCF_002848565.1	Klebsiella pneumoniae		JS187
+GCF_002848585.1	Klebsiella pneumoniae		F44
+GCF_002850275.3	Klebsiella pneumoniae		2N3
+GCF_002852995.3	Klebsiella pneumoniae		SCKP020049
+GCF_002853475.2	Klebsiella pneumoniae		SCKP020135
+GCF_002870865.1	Klebsiella pneumoniae		LS356
+GCF_002870885.1	Klebsiella pneumoniae		LS357
+GCF_002870985.1	Klebsiella pneumoniae		LS358
+GCF_002871025.1	Klebsiella pneumoniae		LS359
+GCF_002887435.1	Klebsiella pneumoniae		Kp81
+GCF_002903025.1	Klebsiella pneumoniae		KPNIH49
+GCF_002918585.2	Klebsiella pneumoniae		KPNIH45
+GCF_002935085.1	Klebsiella pneumoniae		KPNIH48
+GCF_002944845.1	Klebsiella pneumoniae		NUHL30457
+GCF_002948565.1	Klebsiella pneumoniae		AR_0066
+GCF_002951635.1	Klebsiella pneumoniae		FDAARGOS_156
+GCF_002966875.1	Klebsiella pneumoniae		HZW25
+GCF_002967795.2	Klebsiella pneumoniae		BA2275
+GCF_002968475.1	Klebsiella pneumoniae		AR_0363
+GCF_002968495.1	Klebsiella pneumoniae		AR_0361
+GCF_002970895.1	Klebsiella pneumoniae		KPHS1249
+GCF_003006175.1	Klebsiella pneumoniae		DA48896
+GCF_003030145.1	Klebsiella pneumoniae		CFSAN054111
+GCF_003031325.1	Klebsiella pneumoniae		NH25
+GCF_003031345.1	Klebsiella pneumoniae		NH54
+GCF_003031505.1	Klebsiella pneumoniae		BWHC1
+GCF_003037005.2	Klebsiella pneumoniae		WCHKP020098
+GCF_003038215.2	Klebsiella pneumoniae		WCHKP020030
+GCF_003054385.1	Klebsiella pneumoniae		SCM96
+GCF_003056445.1	Klebsiella pneumoniae		Kp589
+GCF_003069525.1	Klebsiella pneumoniae		AR_0153
+GCF_003071305.1	Klebsiella pneumoniae		AR_0141
+GCF_003073235.1	Klebsiella pneumoniae		QS17-0029
+GCF_003073335.1	Klebsiella pneumoniae		AR_0079
+GCF_003073675.1	Klebsiella pneumoniae		AR438
+GCF_003074015.1	Klebsiella pneumoniae		AR376
+GCF_003076555.1	Klebsiella pneumoniae		616
+GCF_003111885.2	Klebsiella pneumoniae		L491
+GCF_003112125.1	Klebsiella pneumoniae		L388
+GCF_003181055.1	Klebsiella pneumoniae		DA33140
+GCF_003181095.1	Klebsiella pneumoniae		DA33141
+GCF_003181135.1	Klebsiella pneumoniae		DA33144
+GCF_003186535.1	Klebsiella pneumoniae		203
+GCF_003194285.1	Klebsiella pneumoniae		CCUG 70742
+GCF_003203435.1	Klebsiella pneumoniae		TVGHCRE225
+GCF_003204175.1	Klebsiella pneumoniae		AR_0087
+GCF_003204465.1	Klebsiella pneumoniae		AR_0140
+GCF_003261955.2	Klebsiella pneumoniae		015625
+GCF_003267985.1	Klebsiella pneumoniae		CDC 0106
+GCF_003288375.1	Klebsiella pneumoniae		AR_362
+GCF_003367555.1	Klebsiella pneumoniae		F1
+GCF_003368365.1	Klebsiella pneumoniae		JNM10C3
+GCF_003429545.1	Klebsiella pneumoniae		160111
+GCF_003432145.1	Klebsiella pneumoniae		KSB1_1I-sc-2280289
+GCF_003432165.1	Klebsiella pneumoniae		MSB1_8A-sc-2280397
+GCF_003432185.1	Klebsiella pneumoniae		INF206-sc-2280074
+GCF_003432205.1	Klebsiella pneumoniae		KSB1_7F-sc-2280268
+GCF_003432245.1	Klebsiella pneumoniae		INF116-sc-2279924
+GCF_003432265.1	Klebsiella pneumoniae		QMP B2-170
+GCF_003432285.1	Klebsiella pneumoniae		INF125-sc-2279943
+GCF_003432405.1	Klebsiella pneumoniae		ZYST1
+GCF_003443755.1	Klebsiella pneumoniae		1050
+GCF_003571525.1	Klebsiella pneumoniae		AR_0076
+GCF_003571545.1	Klebsiella pneumoniae		AR_0135
+GCF_003571585.1	Klebsiella pneumoniae		AR_0160
+GCF_003571605.1	Klebsiella pneumoniae		AR_0075
+GCF_003571645.1	Klebsiella pneumoniae		AR_0097
+GCF_003571705.1	Klebsiella pneumoniae		AR_0109
+GCF_003571745.1	Klebsiella pneumoniae		AR_0046
+GCF_003574235.1	Klebsiella pneumoniae		KP33
+GCF_003574255.1	Klebsiella pneumoniae		KP64
+GCF_003574275.1	Klebsiella pneumoniae		KP67
+GCF_003584585.1	Klebsiella pneumoniae		GSU10-3
+GCF_003590665.1	Klebsiella pneumoniae		INF235-sc-2280127
+GCF_003597695.1	Klebsiella pneumoniae		ST307PT04
+GCF_003597715.1	Klebsiella pneumoniae		ST307PT02
+GCF_003597735.1	Klebsiella pneumoniae		ST307PT03
+GCF_003597755.1	Klebsiella pneumoniae		ST307PT01
+GCF_003660185.1	Klebsiella pneumoniae		INF078
+GCF_003692695.1	Klebsiella pneumoniae		2e
+GCF_003703775.1	Klebsiella pneumoniae		675920
+GCF_003711065.1	Klebsiella pneumoniae		WCHKP115069
+GCF_003790485.1	Klebsiella pneumoniae		4743
+GCF_003812085.1	Klebsiella pneumoniae		FDAARGOS_566
+GCF_003812105.1	Klebsiella pneumoniae		FDAARGOS_531
+GCF_003815075.1	Klebsiella pneumoniae		KPN1343
+GCF_003815095.1	Klebsiella pneumoniae		KPN1344
+GCF_003855315.1	Klebsiella pneumoniae		KP_NORM_BLD_2014_104014
+GCF_003855535.1	Klebsiella pneumoniae		KP17-15
+GCF_003855555.1	Klebsiella pneumoniae		KP17-16
+GCF_003856475.1	Klebsiella pneumoniae		BJCFK909
+GCF_003856595.1	Klebsiella pneumoniae		4/1-2
+GCF_003931835.1	Klebsiella pneumoniae		KP18-29
+GCF_003932915.1	Klebsiella pneumoniae		cr-hvkp3
+GCF_003934185.1	Klebsiella pneumoniae		I72
+GCF_003953905.1	Klebsiella pneumoniae		11492
+GCF_003957455.1	Klebsiella pneumoniae		TOP52_1721_U1
+GCF_003963495.1	Klebsiella pneumoniae		T4
+GCF_004006035.1	Klebsiella pneumoniae		NB5306
+GCF_004010995.1	Klebsiella pneumoniae		08EU827
+GCF_004014965.1	Klebsiella pneumoniae		L5-2
+GCF_004118955.1	Klebsiella pneumoniae		AP8555
+GCF_004119955.1	Klebsiella pneumoniae		F5
+GCF_004119975.1	Klebsiella pneumoniae		F77
+GCF_004119995.1	Klebsiella pneumoniae		F127
+GCF_004120035.1	Klebsiella pneumoniae		F93-1
+GCF_004120055.1	Klebsiella pneumoniae		F13
+GCF_004120075.1	Klebsiella pneumoniae		F132
+GCF_004120095.1	Klebsiella pneumoniae		F138
+GCF_004120115.1	Klebsiella pneumoniae		B12(AN)
+GCF_004120135.1	Klebsiella pneumoniae		F89-1
+GCF_004120155.1	Klebsiella pneumoniae		F81
+GCF_004120175.1	Klebsiella pneumoniae		F93-2
+GCF_004135795.1	Klebsiella pneumoniae		NH34
+GCF_004137665.1	Klebsiella pneumoniae		NFYY0065
+GCF_004295385.1	Klebsiella pneumoniae		BA1559
+GCF_004295405.1	Klebsiella pneumoniae		BA34918
+GCF_004295605.1	Klebsiella pneumoniae		B31
+GCF_004319525.1	Klebsiella pneumoniae		BP327
+GCF_004322795.1	Klebsiella pneumoniae		WCHKP115068
+GCF_004322955.1	Klebsiella pneumoniae		ABFPV
+GCF_004322995.1	Klebsiella pneumoniae		ABFQB
+GCF_004332075.1	Klebsiella pneumoniae		18CPO060
+GCF_004801235.1	Klebsiella pneumoniae		121
+GCF_004924315.1	Klebsiella pneumoniae		ST23
+GCF_005239265.1	Klebsiella pneumoniae		R1701
+GCF_005239285.1	Klebsiella pneumoniae		R1761
+GCF_005347525.1	Klebsiella pneumoniae		CRKP I
+GCF_005853785.1	Klebsiella pneumoniae		CR-HvKP1
+GCF_005854025.1	Klebsiella pneumoniae		CR-HvKP5
+GCF_005854245.1	Klebsiella pneumoniae		CR-HvKP4
+GCF_005944305.1	Klebsiella pneumoniae		KpvST147B_SE1_1_NDM
+GCF_006304565.1	Klebsiella pneumoniae		XJ-K1
+GCF_006364295.1	Klebsiella pneumoniae		FDAARGOS_775
+GCF_006459145.1	Klebsiella pneumoniae		Kp202
+GCF_006494895.1	Klebsiella pneumoniae		L39_2
+GCF_006494915.1	Klebsiella pneumoniae		L482
+GCF_006965405.1	Klebsiella pneumoniae		RJY9645
+GCF_006974165.1	Klebsiella pneumoniae		R50
+GCF_007197815.1	Klebsiella pneumoniae		NKU_Kleb8A7
+GCF_007833555.1	Klebsiella pneumoniae		IA565
+GCF_007833575.1	Klebsiella pneumoniae		DA12090
+GCF_007873865.1	Klebsiella pneumoniae		PIMB15ND2KP27
+GCF_008065415.1	Klebsiella pneumoniae		18-2374
+GCF_008121515.1	Klebsiella pneumoniae		KLP268
+GCF_008122285.1	Klebsiella pneumoniae		KP1677
+GCF_008369685.1	Klebsiella pneumoniae		P094-1
+GCF_008373035.2	Klebsiella pneumoniae		LSH-KPN25
+GCF_008632415.1	Klebsiella pneumoniae		555
+GCF_008632935.2	Klebsiella pneumoniae		D1
+GCF_008693405.1	Klebsiella pneumoniae		FDAARGOS_630
+GCF_008693425.1	Klebsiella pneumoniae		FDAARGOS_631
+GCF_008693445.1	Klebsiella pneumoniae		FDAARGOS_629
+GCF_008728415.1	Klebsiella pneumoniae		KP65
+GCF_008728695.1	Klebsiella pneumoniae		KP58
+GCF_008931345.1	Klebsiella pneumoniae		C51
+GCF_008931565.1	Klebsiella pneumoniae		C2
+GCF_009387775.1	Klebsiella pneumoniae		LH94
+GCF_009387815.1	Klebsiella pneumoniae		TH164
+GCF_009387915.1	Klebsiella pneumoniae		LH375
+GCF_009387945.1	Klebsiella pneumoniae		LH102-A
+GCF_009497695.1	Klebsiella pneumoniae		K2044
+GCF_009497735.1	Klebsiella pneumoniae		13190
+GCF_009497755.1	Klebsiella pneumoniae		11420
+GCF_009556655.1	Klebsiella pneumoniae		SMU18037509
+GCF_009601745.1	Klebsiella pneumoniae		TK421
+GCF_009648995.1	Klebsiella pneumoniae		LEMB18
+GCF_009660375.2	Klebsiella pneumoniae		CriePir116
+GCF_009661455.2	Klebsiella pneumoniae		CriePir154
+GCF_009661535.2	Klebsiella pneumoniae		CriePir75
+GCF_009661615.2	Klebsiella pneumoniae		CriePir120
+GCF_009661725.2	Klebsiella pneumoniae		CriePir45
+GCF_009684575.1	Klebsiella pneumoniae		C789
+GCF_009720445.1	Klebsiella pneumoniae		KP2
+GCF_009731405.1	Klebsiella pneumoniae		JUNP254
+GCF_009734105.1	Klebsiella pneumoniae		BD_DM_782
+GCF_009755705.1	Klebsiella pneumoniae		WCGKP294
+GCF_009791475.1	Klebsiella pneumoniae		BD_DM_914
+GCF_009791495.1	Klebsiella pneumoniae		BD_DM_697
+GCF_009833945.1	Klebsiella pneumoniae		KP19-2029
+GCF_009834285.1	Klebsiella pneumoniae		XJ-K2
+GCF_009856585.1	Klebsiella pneumoniae		Kp36
+GCF_009884395.1	Klebsiella pneumoniae		YML0508
+GCF_009884415.1	Klebsiella pneumoniae		WSD411
+GCF_009906875.1	Klebsiella pneumoniae		158590
+GCF_009914255.1	Klebsiella pneumoniae		LSH-KPN25
+GCF_009930975.1	Klebsiella pneumoniae		721005
+GCF_009930995.1	Klebsiella pneumoniae		309074
+GCF_009931015.1	Klebsiella pneumoniae		283747
+GCF_009931035.1	Klebsiella pneumoniae		205880
+GCF_009931055.1	Klebsiella pneumoniae		11311
+GCF_009931095.1	Klebsiella pneumoniae		11305
+GCF_009931175.1	Klebsiella pneumoniae		23
+GCF_010183605.1	Klebsiella pneumoniae		C2974
+GCF_010183625.1	Klebsiella pneumoniae		C2972
+GCF_010183645.1	Klebsiella pneumoniae		C2660
+GCF_010183665.1	Klebsiella pneumoniae		C2601
+GCF_010183685.1	Klebsiella pneumoniae		C2414
+GCF_010183705.1	Klebsiella pneumoniae		C2343
+GCF_010183725.1	Klebsiella pneumoniae		C2315
+GCF_010367305.1	Klebsiella pneumoniae		TA6363
+GCF_010450855.1	Klebsiella pneumoniae		KP18-3-8
+GCF_010586985.1	Klebsiella pneumoniae		Xen39
+GCF_011006575.1	Klebsiella pneumoniae		K2606
+GCF_011022255.1	Klebsiella pneumoniae		KP18-2079
+GCF_011045775.1	Klebsiella pneumoniae		2019036D
+GCF_011058615.1	Klebsiella pneumoniae		20467
+GCF_011065365.1	Klebsiella pneumoniae		33
+GCF_011065385.1	Klebsiella pneumoniae		39
+GCF_011066505.1	Klebsiella pneumoniae		16HN-263
+GCF_011068365.1	Klebsiella pneumoniae		Kp8701
+GCF_011106605.1	Klebsiella pneumoniae		KPC160121
+GCF_011106775.1	Klebsiella pneumoniae		KPC160117
+GCF_011106795.1	Klebsiella pneumoniae		KPC160125
+GCF_011129215.1	Klebsiella pneumoniae		KPC160132
+GCF_011742285.2	Klebsiella pneumoniae		BA39649
+GCF_011742415.2	Klebsiella pneumoniae		BP3636
+GCF_011742505.2	Klebsiella pneumoniae		BA2105
+GCF_011742515.2	Klebsiella pneumoniae		BA12818
+GCF_011742585.2	Klebsiella pneumoniae		BA10835
+GCF_011764365.2	Klebsiella pneumoniae		MH15-269M
+GCF_011769725.1	Klebsiella pneumoniae		47733
+GCF_011769805.1	Klebsiella pneumoniae		50595
+GCF_011769825.1	Klebsiella pneumoniae		51015
+GCF_011784905.1	Klebsiella pneumoniae		NMI4661_17
+GCF_012029695.2	Klebsiella pneumoniae		NU-CRE195
+GCF_012029895.2	Klebsiella pneumoniae		NU-CRE236
+GCF_012029935.2	Klebsiella pneumoniae		NU-CRE055
+GCF_012029945.2	Klebsiella pneumoniae		NU-CRE193
+GCF_012029975.2	Klebsiella pneumoniae		NU-CRE085
+GCF_012113615.1	Klebsiella pneumoniae		Bckp091
+GCF_012113635.1	Klebsiella pneumoniae		Bckp212
+GCF_012113655.1	Klebsiella pneumoniae		Bckp067
+GCF_012166915.1	Klebsiella pneumoniae		Bckp021
+GCF_012167075.1	Klebsiella pneumoniae		Bckp101
+GCF_012167215.1	Klebsiella pneumoniae		Bckp186
+GCF_012167385.1	Klebsiella pneumoniae		Bckp206
+GCF_012168575.2	Klebsiella pneumoniae		SCH6109
+GCF_012169405.1	Klebsiella pneumoniae		KPN55602
+GCF_012944055.1	Klebsiella pneumoniae		KPN41053
+GCF_013168295.1	Klebsiella pneumoniae		SMKP03
+GCF_013282295.1	Klebsiella pneumoniae		NMBU-W07E18
+GCF_013283935.1	Klebsiella pneumoniae		WSHvKP
+GCF_013305305.1	Klebsiella pneumoniae		39427
+GCF_013305325.1	Klebsiella pneumoniae		MS14393
+GCF_013348885.1	Klebsiella pneumoniae		KP20194b2
+GCF_013348905.1	Klebsiella pneumoniae		KP20194f
+GCF_013348925.1	Klebsiella pneumoniae		KP20194c
+GCF_013348945.1	Klebsiella pneumoniae		KP20194d
+GCF_013348965.1	Klebsiella pneumoniae		KP20194e
+GCF_013348985.1	Klebsiella pneumoniae		KP20194c5
+GCF_013349005.1	Klebsiella pneumoniae		KP20194c4
+GCF_013349025.1	Klebsiella pneumoniae		KP20194c3
+GCF_013349045.1	Klebsiella pneumoniae		KP20194b
+GCF_013349065.1	Klebsiella pneumoniae		KP20194a2
+GCF_013349085.1	Klebsiella pneumoniae		KP20194a
+GCF_013376555.1	Klebsiella pneumoniae		KP20191015
+GCF_013376595.1	Klebsiella pneumoniae		16BU137
+GCF_013378155.1	Klebsiella pneumoniae		18KM1950
+GCF_013378175.1	Klebsiella pneumoniae		18KM2517
+GCF_013378195.1	Klebsiella pneumoniae		18KM2813
+GCF_013378215.1	Klebsiella pneumoniae		19KM28
+GCF_013378235.1	Klebsiella pneumoniae		19KM57
+GCF_013378255.1	Klebsiella pneumoniae		18KM2445b
+GCF_013378275.1	Klebsiella pneumoniae		AR142_2b
+GCF_013378295.1	Klebsiella pneumoniae		EAN23
+GCF_013378315.1	Klebsiella pneumoniae		EAN40
+GCF_013407495.1	Klebsiella pneumoniae		112-17
+GCF_013407605.1	Klebsiella pneumoniae		109-17
+GCF_013407685.1	Klebsiella pneumoniae		110-17
+GCF_013407715.1	Klebsiella pneumoniae		103-17
+GCF_013407825.1	Klebsiella pneumoniae		101-17
+GCF_013407965.1	Klebsiella pneumoniae		97-17
+GCF_013408125.1	Klebsiella pneumoniae		95-17
+GCF_013408255.1	Klebsiella pneumoniae		90-17
+GCF_013408385.1	Klebsiella pneumoniae		89-17
+GCF_013408505.1	Klebsiella pneumoniae		83-17
+GCF_013408625.1	Klebsiella pneumoniae		74-17
+GCF_013408755.1	Klebsiella pneumoniae		46-16
+GCF_013409055.1	Klebsiella pneumoniae		5-16
+GCF_013409165.1	Klebsiella pneumoniae		1-16
+GCF_013416035.1	Klebsiella pneumoniae		11KM256
+GCF_013416055.1	Klebsiella pneumoniae		06KM907
+GCF_013416085.1	Klebsiella pneumoniae		19KM267
+GCF_013416105.1	Klebsiella pneumoniae		19KM1053
+GCF_013416125.1	Klebsiella pneumoniae		19KM1109
+GCF_013423825.1	Klebsiella pneumoniae		ZZW20
+GCF_013426775.1	Klebsiella pneumoniae		KAM260
+GCF_013611495.1	Klebsiella pneumoniae		RHBSTW-00472
+GCF_013694405.1	Klebsiella pneumoniae		Kp46596
+GCF_013694425.1	Klebsiella pneumoniae		Kp46564
+GCF_013704985.1	Klebsiella pneumoniae		RHBSTW-00574
+GCF_013706045.1	Klebsiella pneumoniae		RHBSTW-00405
+GCF_013707355.1	Klebsiella pneumoniae		RHBSTW-00184
+GCF_013708685.1	Klebsiella pneumoniae		RHBSTW-00001
+GCF_013724605.1	Klebsiella pneumoniae		RHBSTW-00973
+GCF_013729075.1	Klebsiella pneumoniae		RHBSTW-00867
+GCF_013730675.1	Klebsiella pneumoniae		RHBSTW-00852
+GCF_013731305.1	Klebsiella pneumoniae		RHBSTW-00843
+GCF_013731735.1	Klebsiella pneumoniae		RHBSTW-00832
+GCF_013734035.1	Klebsiella pneumoniae		RHBSTW-00636
+GCF_013735155.1	Klebsiella pneumoniae		RHBSTW-00610
+GCF_013735895.1	Klebsiella pneumoniae		RHBSTW-00515
+GCF_013736155.1	Klebsiella pneumoniae		RHBSTW-00510
+GCF_013737695.1	Klebsiella pneumoniae		RHBSTW-00433
+GCF_013745295.1	Klebsiella pneumoniae		RHBSTW-00807
+GCF_013782105.1	Klebsiella pneumoniae		RHBSTW-00995
+GCF_013783245.1	Klebsiella pneumoniae		RHBSTW-00982
+GCF_013791265.1	Klebsiella pneumoniae		RHBSTW-00128
+GCF_013792545.1	Klebsiella pneumoniae		RHBSTW-00113
+GCF_013796245.1	Klebsiella pneumoniae		RHBSTW-00066
+GCF_013796485.1	Klebsiella pneumoniae		RHBSTW-00062
+GCF_013805705.1	Klebsiella pneumoniae		RHB39-C24
+GCF_013811445.1	Klebsiella pneumoniae		RHB39-C10
+GCF_013811845.1	Klebsiella pneumoniae		RHB39-C09
+GCF_013813035.1	Klebsiella pneumoniae		RHB38-C06
+GCF_013826045.1	Klebsiella pneumoniae		RHB30-C05
+GCF_013834745.1	Klebsiella pneumoniae		RHB26-C08
+GCF_013895695.1	Klebsiella pneumoniae		RHB16-C24
+GCF_014041505.2	Klebsiella pneumoniae		WCHKP090374
+GCF_014041645.2	Klebsiella pneumoniae		WCHKP090361
+GCF_014041735.2	Klebsiella pneumoniae		WCHKP090357
+GCF_014041845.2	Klebsiella pneumoniae		WCHKP090329
+GCF_014168575.1	Klebsiella pneumoniae		WP2-S17-ESBL-02
+GCF_014168655.1	Klebsiella pneumoniae		WP2-W18-ESBL-06
+GCF_014169335.1	Klebsiella pneumoniae		WP5-S18-ESBL-02
+GCF_014170015.1	Klebsiella pneumoniae		IDR1800050501-01-02
+GCF_014170035.1	Klebsiella pneumoniae		IDR1900025266-01-00
+GCF_014170935.1	Klebsiella pneumoniae		WP4-S18-CRE-04
+GCF_014189335.1	Klebsiella pneumoniae		N16-03892
+GCF_014304835.1	Klebsiella pneumoniae		ent1077
+GCF_014361115.1	Klebsiella pneumoniae		KP120
+GCF_014490685.2	Klebsiella pneumoniae		COL17
+GCF_014495765.1	Klebsiella pneumoniae		HKP0067
+GCF_014495785.1	Klebsiella pneumoniae		HKP0018
+GCF_014524525.1	Klebsiella pneumoniae		P35
+GCF_014725755.1	Klebsiella pneumoniae		KP3020
+GCF_014764345.1	Klebsiella pneumoniae		C39
+GCF_014788765.1	Klebsiella pneumoniae		C0674
+GCF_014826045.1	Klebsiella pneumoniae		NICU_2_P7
+GCF_014840955.1	Klebsiella pneumoniae		HC139
+GCF_014854815.1	Klebsiella pneumoniae		GZ-1
+GCF_014883955.1	Klebsiella pneumoniae		33Kpn12
+GCF_014905815.1	Klebsiella pneumoniae		M941
+GCF_014961485.1	Klebsiella pneumoniae		KP19-3088
+GCF_015022235.1	Klebsiella pneumoniae		BTS
+GCF_015024285.2	Klebsiella pneumoniae		2016-1400
+GCF_015138775.1	Klebsiella pneumoniae		THO-004
+GCF_015178905.2	Klebsiella pneumoniae		SAWA
+GCF_015219805.1	Klebsiella pneumoniae		HKU57
+GCF_015238555.1	Klebsiella pneumoniae		KP19-3023
+GCF_015238655.1	Klebsiella pneumoniae		ZRKP04
+GCF_015238895.1	Klebsiella pneumoniae		ZRKP03
+GCF_015239135.1	Klebsiella pneumoniae		ZRKP02
+GCF_015239295.1	Klebsiella pneumoniae		ZRKP01
+GCF_015243235.1	Klebsiella pneumoniae		FRPDR
+GCF_015277755.1	Klebsiella pneumoniae		CRKP66R
+GCF_015277915.1	Klebsiella pneumoniae		M1026-3Ar
+GCF_015277935.1	Klebsiella pneumoniae		N1059-5At
+GCF_015277955.1	Klebsiella pneumoniae		M1023-4Ar
+GCF_015277975.1	Klebsiella pneumoniae		M63-1
+GCF_015277995.1	Klebsiella pneumoniae		S130-1
+GCF_015278055.1	Klebsiella pneumoniae		S141
+GCF_015278095.1	Klebsiella pneumoniae		S90-2
+GCF_015283665.1	Klebsiella pneumoniae		BM334-2
+GCF_015283885.1	Klebsiella pneumoniae		BS361-1
+GCF_015284665.1	Klebsiella pneumoniae		BS433-2
+GCF_015284925.1	Klebsiella pneumoniae		S183-1
+GCF_015285145.1	Klebsiella pneumoniae		M186-2
+GCF_015286225.1	Klebsiella pneumoniae		BM327-1
+GCF_015286445.1	Klebsiella pneumoniae		M212-2
+GCF_015287605.1	Klebsiella pneumoniae		BM336-2-1
+GCF_015288205.1	Klebsiella pneumoniae		BM337-1
+GCF_015288605.1	Klebsiella pneumoniae		BM338-1
+GCF_015289145.1	Klebsiella pneumoniae		S210-3
+GCF_015289545.1	Klebsiella pneumoniae		BS326-3
+GCF_015289765.1	Klebsiella pneumoniae		BS329-2
+GCF_015289985.1	Klebsiella pneumoniae		BM343
+GCF_015290145.1	Klebsiella pneumoniae		BS317-1
+GCF_015290925.1	Klebsiella pneumoniae		S166-1
+GCF_015290985.1	Klebsiella pneumoniae		3214
+GCF_015338385.1	Klebsiella pneumoniae		M911-1
+GCF_015353095.1	Klebsiella pneumoniae		19110124
+GCF_015355835.1	Klebsiella pneumoniae		JX-CR-hvKP-12
+GCF_015355855.1	Klebsiella pneumoniae		JX-CR-hvKP-11
+GCF_015355875.1	Klebsiella pneumoniae		JX-CR-hvKP-10
+GCF_015355895.1	Klebsiella pneumoniae		JX-CR-hvKP-9
+GCF_015355915.1	Klebsiella pneumoniae		JX-CR-hvKP-7
+GCF_015355935.1	Klebsiella pneumoniae		JX-CR-hvKP-8
+GCF_015355955.1	Klebsiella pneumoniae		JX-CR-hvKP-6
+GCF_015355975.1	Klebsiella pneumoniae		JX-CR-hvKP-5
+GCF_015355995.1	Klebsiella pneumoniae		JX-CR-hvKP-4
+GCF_015356015.1	Klebsiella pneumoniae		JX-CR-hvKP-3
+GCF_015356035.1	Klebsiella pneumoniae		JX-CR-hvKP-2
+GCF_015356055.1	Klebsiella pneumoniae		JX-CR-hvKP-1
+GCF_015690055.1	Klebsiella pneumoniae		ENT1332
+GCF_015694065.1	Klebsiella pneumoniae		KPN110
+GCF_015694085.1	Klebsiella pneumoniae		KPN114
+GCF_015774895.1	Klebsiella pneumoniae		ZG2017CW 1-1-1
+GCF_015774955.1	Klebsiella pneumoniae		ZG2017CW4-4-2
+GCF_015775135.1	Klebsiella pneumoniae		ZG2017CW4-4-1-2
+GCF_015775275.1	Klebsiella pneumoniae		ZG2017CW4-3-1-2N
+GCF_015832035.1	Klebsiella pneumoniae		KPNSP-1
+GCF_015910145.1	Klebsiella pneumoniae		Kpn-14
+GCF_015910165.1	Klebsiella pneumoniae		Kpn-13
+GCF_015992265.1	Klebsiella pneumoniae		Sea Superman
+GCF_015992285.1	Klebsiella pneumoniae		Magic conch shell
+GCF_015992305.1	Klebsiella pneumoniae		Gordon
+GCF_015992325.1	Klebsiella pneumoniae		Olaf
+GCF_015992345.1	Klebsiella pneumoniae		Dirty Dan
+GCF_015992385.1	Klebsiella pneumoniae		Mrs. Puff
+GCF_015992405.1	Klebsiella pneumoniae		Patrick Star
+GCF_015992425.1	Klebsiella pneumoniae		Ocean Ranger
+GCF_016066025.1	Klebsiella pneumoniae		KpPF25
+GCF_016066295.1	Klebsiella pneumoniae		KpC11
+GCF_016066475.1	Klebsiella pneumoniae		KpC5
+GCF_016067835.1	Klebsiella pneumoniae		Beach Ranger
+GCF_016403065.1	Klebsiella pneumoniae		CRKP52R
+GCF_016403085.1	Klebsiella pneumoniae		CRKP78R
+GCF_016598795.1	Klebsiella pneumoniae		1970_kpn
+GCF_016629585.1	Klebsiella pneumoniae		KSB1_9A
+GCF_016694775.1	Klebsiella pneumoniae		LYS105A
+GCF_016727425.1	Klebsiella pneumoniae		FDAARGOS_1076
+GCF_016772535.1	Klebsiella pneumoniae		59493
+GCF_016772555.1	Klebsiella pneumoniae		45706
+GCF_016772575.1	Klebsiella pneumoniae		42362
+GCF_016772595.1	Klebsiella pneumoniae		41968
+GCF_016780025.1	Klebsiella pneumoniae		RIVM_C014073
+GCF_016780145.1	Klebsiella pneumoniae		RIVM_C015043
+GCF_016800965.1	Klebsiella pneumoniae		fekpn2511
+GCF_016801375.1	Klebsiella pneumoniae		33Kpn22
+GCF_016801495.1	Klebsiella pneumoniae		RIVM_C018500
+GCF_016801575.1	Klebsiella pneumoniae		RIVM_C015657
+GCF_016804025.1	Klebsiella pneumoniae		KPN361
+GCF_016864395.1	Klebsiella pneumoniae		KP36M
+GCF_016903115.1	Klebsiella pneumoniae		FDAARGOS_1327
+GCF_016903155.1	Klebsiella pneumoniae		FDAARGOS_1326
+GCF_016903195.1	Klebsiella pneumoniae		FDAARGOS_1305
+GCF_016903235.1	Klebsiella pneumoniae		FDAARGOS_1324
+GCF_016903255.1	Klebsiella pneumoniae		FDAARGOS_1311
+GCF_016903295.1	Klebsiella pneumoniae		FDAARGOS_1323
+GCF_016903395.1	Klebsiella pneumoniae		FDAARGOS_1313
+GCF_016903455.1	Klebsiella pneumoniae		FDAARGOS_1318
+GCF_016903475.1	Klebsiella pneumoniae		FDAARGOS_1315
+GCF_016903495.1	Klebsiella pneumoniae		FDAARGOS_1312
+GCF_016903515.1	Klebsiella pneumoniae		FDAARGOS_1330
+GCF_016903735.1	Klebsiella pneumoniae		FDAARGOS_1325
+GCF_016903755.1	Klebsiella pneumoniae		FDAARGOS_1317
+GCF_016903775.1	Klebsiella pneumoniae		FDAARGOS_1307
+GCF_016903795.1	Klebsiella pneumoniae		FDAARGOS_1308
+GCF_016903875.1	Klebsiella pneumoniae		FDAARGOS_1329
+GCF_016903895.1	Klebsiella pneumoniae		FDAARGOS_1321
+GCF_016903955.1	Klebsiella pneumoniae		FDAARGOS_1309
+GCF_016904035.1	Klebsiella pneumoniae		FDAARGOS_1322
+GCF_016904095.1	Klebsiella pneumoniae		FDAARGOS_1319
+GCF_016904275.1	Klebsiella pneumoniae		FDAARGOS_1328
+GCF_016904295.1	Klebsiella pneumoniae		FDAARGOS_1306
+GCF_016904315.1	Klebsiella pneumoniae		FDAARGOS_1316
+GCF_016904415.1	Klebsiella pneumoniae		FDAARGOS_1314
+GCF_016904595.1	Klebsiella pneumoniae		FDAARGOS_1310
+GCF_016904635.1	Klebsiella pneumoniae		FDAARGOS_1320
+GCF_016925215.1	Klebsiella pneumoniae		B960
+GCF_016925235.1	Klebsiella pneumoniae		B1347
+GCF_016925275.1	Klebsiella pneumoniae		B3824
+GCF_016925295.1	Klebsiella pneumoniae		B3923
+GCF_016925315.1	Klebsiella pneumoniae		B5617
+GCF_016925355.1	Klebsiella pneumoniae		B12097
+GCF_016925375.1	Klebsiella pneumoniae		B18064
+GCF_016925415.1	Klebsiella pneumoniae		B28484
+GCF_016925435.1	Klebsiella pneumoniae		B28906
+GCF_016939535.1	Klebsiella pneumoniae		KP47693
+GCF_016939675.1	Klebsiella pneumoniae		KP51069
+GCF_016939695.1	Klebsiella pneumoniae		KP51248
+GCF_016939755.1	Klebsiella pneumoniae		KP52810
+GCF_016939775.1	Klebsiella pneumoniae		KP52813
+GCF_016939815.1	Klebsiella pneumoniae		KPA4411
+GCF_016939835.1	Klebsiella pneumoniae		KPA9853
+GCF_017084505.1	Klebsiella pneumoniae		JNQH116
+GCF_017086485.1	Klebsiella pneumoniae		JS706
+GCF_017310305.1	Klebsiella pneumoniae		IR5065
+GCF_017310325.1	Klebsiella pneumoniae		IR5654
+GCF_017310345.1	Klebsiella pneumoniae		IR5726
+GCF_017310365.1	Klebsiella pneumoniae		JNK002
+GCF_017310385.1	Klebsiella pneumoniae		LZK001
+GCF_017310405.1	Klebsiella pneumoniae		IR5755
+GCF_017310425.1	Klebsiella pneumoniae		IR5086
+GCF_017310565.1	Klebsiella pneumoniae		IR1251
+GCF_017315205.1	Klebsiella pneumoniae		JS161205112
+GCF_017351975.1	Klebsiella pneumoniae		C2244
+GCF_017357925.1	Klebsiella pneumoniae		wxc2020
+GCF_017639065.1	Klebsiella pneumoniae		ESBL_DR09
+GCF_017742895.1	Klebsiella pneumoniae		B33769
+GCF_017742915.1	Klebsiella pneumoniae		B4650
+GCF_017742935.1	Klebsiella pneumoniae		B32278
+GCF_017742955.1	Klebsiella pneumoniae		B13243
+GCF_017743095.1	Klebsiella pneumoniae		KPN236
+GCF_017743135.1	Klebsiella pneumoniae		KPN247
+GCF_017809835.1	Klebsiella pneumoniae		KP1517
+GCF_017815715.1	Klebsiella pneumoniae		KPN234
+GCF_017815795.1	Klebsiella pneumoniae		M297-1
+GCF_017894305.1	Klebsiella pneumoniae		KP77
+GCF_018069685.1	Klebsiella pneumoniae		KP2723
+GCF_018075325.1	Klebsiella pneumoniae		KP1878
+GCF_018128445.1	Klebsiella pneumoniae		3347684I
+GCF_018128465.1	Klebsiella pneumoniae		3347689I
+GCF_018140905.1	Klebsiella pneumoniae		SW1780
+GCF_018279185.1	Klebsiella pneumoniae		Kpn 1693
+GCF_018279325.1	Klebsiella pneumoniae		KP2509
+GCF_018314115.1	Klebsiella pneumoniae		HK31
+GCF_018336355.1	Klebsiella pneumoniae		Kp7224
+GCF_018336375.1	Klebsiella pneumoniae		Kp13869
+GCF_018336835.1	Klebsiella pneumoniae		KP55
+GCF_018394355.1	Klebsiella pneumoniae		B30155
+GCF_018449045.1	Klebsiella pneumoniae		SZP4-9-2
+GCF_018449065.1	Klebsiella pneumoniae		YTF44-1
+GCF_018454365.1	Klebsiella pneumoniae		DD521
+GCF_018487825.1	Klebsiella pneumoniae		RGF20-1
+GCF_018502565.1	Klebsiella pneumoniae		RGT40-1
+GCF_018502585.1	Klebsiella pneumoniae		RGF99-1
+GCF_018583165.1	Klebsiella pneumoniae		RGB7-1
+GCF_018583185.1	Klebsiella pneumoniae		RGF152-1
+GCF_018583205.1	Klebsiella pneumoniae		RGF22-2-2
+GCF_018583225.1	Klebsiella pneumoniae		RGF85-1
+GCF_018583245.1	Klebsiella pneumoniae		RGF172-1
+GCF_018583265.1	Klebsiella pneumoniae		RGT3-2
+GCF_018583285.1	Klebsiella pneumoniae		RGT5-2
+GCF_018583305.1	Klebsiella pneumoniae		RGT9-1
+GCF_018583325.1	Klebsiella pneumoniae		RGT34-2
+GCF_018604345.1	Klebsiella pneumoniae		2016_49
+GCF_018604385.1	Klebsiella pneumoniae		GR390
+GCF_018623105.1	Klebsiella pneumoniae		KP32558
+GCF_900323945.1	Klebsiella pneumoniae		CNR48
+GCF_900497045.1	Klebsiella pneumoniae		KP980
+GCF_900497055.1	Klebsiella pneumoniae		KP9201
+GCF_900497475.1	Klebsiella pneumoniae		EC-12536
+GCF_900622605.1	Klebsiella pneumoniae		AJ218
+GCF_900622645.1	Klebsiella pneumoniae		KPC2
+GCF_900635125.1	Klebsiella pneumoniae		NCTC11359
+GCF_900635995.1	Klebsiella pneumoniae		NCTC418
+GCF_900636455.1	Klebsiella pneumoniae		NCTC9793
+GCF_901421925.1	Klebsiella pneumoniae		NCTC11698
+GCF_901422065.1	Klebsiella pneumoniae		NCTC9157
+GCF_902723695.1	Klebsiella pneumoniae		Klebsiella pneumoniae kpn154
+GCF_902723705.1	Klebsiella pneumoniae		Kpn2166
+GCF_902827215.1	Klebsiella pneumoniae		SB5881
+GCF_904863055.1	Klebsiella pneumoniae		INF022-sc-2279895
+GCF_904863075.1	Klebsiella pneumoniae		INF334-sc-2280143
+GCF_904863095.1	Klebsiella pneumoniae		INF174-sc-2280034
+GCF_904863115.1	Klebsiella pneumoniae		INF329-sc-2280137
+GCF_904863125.1	Klebsiella pneumoniae		INF357-sc-2280189
+GCF_904863135.1	Klebsiella pneumoniae		INF310-sc-2280104
+GCF_904863145.1	Klebsiella pneumoniae		INF072-sc-2279995
+GCF_904863195.1	Klebsiella pneumoniae		INF133-sc-2279960
+GCF_904863205.1	Klebsiella pneumoniae		INF008-sc-2279879
+GCF_904863215.1	Klebsiella pneumoniae		INF277
+GCF_904863225.1	Klebsiella pneumoniae		KSB1_6J
+GCF_904863245.1	Klebsiella pneumoniae		INF355-sc-2280185
+GCF_904863265.1	Klebsiella pneumoniae		INF156-sc-2280002
+GCF_904863275.1	Klebsiella pneumoniae		INF188-sc-2280054
+GCF_904863285.1	Klebsiella pneumoniae		INF231-sc-2280121
+GCF_904863295.1	Klebsiella pneumoniae		KSB2_2B-sc-2280339
+GCF_904863325.1	Klebsiella pneumoniae		INF354-sc-2280183
+GCF_904863335.1	Klebsiella pneumoniae		KSB1_5B
+GCF_904863355.1	Klebsiella pneumoniae		INF148-sc-2279987
+GCF_904863365.1	Klebsiella pneumoniae		INF049-sc-2279950
+GCF_904863395.1	Klebsiella pneumoniae		INF250-sc-2280154
+GCF_904863405.1	Klebsiella pneumoniae		INF215-sc-2280087
+GCF_904863425.1	Klebsiella pneumoniae		INF348-sc-2280170
+GCF_904863435.1	Klebsiella pneumoniae		KSB1_1B
+GCF_904864445.1	Klebsiella pneumoniae		KSB1_6G-sc-2280276
+GCF_904864465.1	Klebsiella pneumoniae		INF298
+GCF_904864505.1	Klebsiella pneumoniae		INF331-sc-2280141
+GCF_904864515.1	Klebsiella pneumoniae		KSB2_2C-sc-2280354
+GCF_904864525.1	Klebsiella pneumoniae		INF350-sc-2280174
+GCF_904864535.1	Klebsiella pneumoniae		INF313-sc-2280106
+GCF_904864545.1	Klebsiella pneumoniae		KSB1_9J-sc-2280309
+GCF_904864565.1	Klebsiella pneumoniae		INF032-sc-2279918
+GCF_904864595.1	Klebsiella pneumoniae		INF333
+GCF_904864605.1	Klebsiella pneumoniae		INF044-sc-2279940
+GCF_904864625.1	Klebsiella pneumoniae		INF171-sc-2280028
+GCF_904864645.1	Klebsiella pneumoniae		INF079-sc-2280008
+GCF_904865675.1	Klebsiella pneumoniae		INF358-sc-2280191
+GCF_904865685.1	Klebsiella pneumoniae		INF182-sc-2280049
+GCF_904865695.1	Klebsiella pneumoniae		INF319-sc-2280116
+GCF_904865715.1	Klebsiella pneumoniae		KSB1_5H-sc-2280283
+GCF_904865735.1	Klebsiella pneumoniae		INF361-sc-2280198
+GCF_904865745.1	Klebsiella pneumoniae		INF247-sc-2280148
+GCF_904865755.1	Klebsiella pneumoniae		INF341-sc-2280155
+GCF_904865765.1	Klebsiella pneumoniae		KSB2_9A-sc-2280332
+GCF_904865785.1	Klebsiella pneumoniae		INF142-sc-2279977
+GCF_904865795.1	Klebsiella pneumoniae		KSB2_10B-sc-2280350
+GCF_904865805.1	Klebsiella pneumoniae		INF144-sc-2279979
+GCF_904865815.1	Klebsiella pneumoniae		INF281-sc-2280206
+GCF_904865825.1	Klebsiella pneumoniae		INF018-sc-2279888
+GCF_904865845.1	Klebsiella pneumoniae		INF302-sc-2280090
+GCF_904866195.1	Klebsiella pneumoniae		INF327-sc-2280132
+GCF_904866205.1	Klebsiella pneumoniae		INF145-sc-2279981
+GCF_904866215.1	Klebsiella pneumoniae		INF359-sc-2280194
+GCF_904866235.1	Klebsiella pneumoniae		INF122-sc-2279936
+GCF_904866255.1	Klebsiella pneumoniae		INF223-sc-2280103
+GCF_904866285.1	Klebsiella pneumoniae		INF344-sc-2280162
+GCF_904866295.1	Klebsiella pneumoniae		KSB2_1C-sc-2280352
+GCF_904866315.1	Klebsiella pneumoniae		INF346-sc-2280166
+GCF_904866325.1	Klebsiella pneumoniae		INF299-sc-2280084
+GCF_904866335.1	Klebsiella pneumoniae		INF266-sc-2280182
+GCF_904866375.1	Klebsiella pneumoniae		INF242-sc-2280140
+GCF_904866395.1	Klebsiella pneumoniae		INF321-sc-2280120
+GCF_904866405.1	Klebsiella pneumoniae		INF279-sc-2280202
+GCF_904866415.1	Klebsiella pneumoniae		INF201-sc-2280069
+GCF_904866425.1	Klebsiella pneumoniae		INF065-sc-2279980
+GCF_904866435.1	Klebsiella pneumoniae		INF119-sc-2279930
+GCF_904866445.1	Klebsiella pneumoniae		INF305-sc-2280094
+GCF_904866465.1	Klebsiella pneumoniae		INF161-sc-2280013
+GCF_904866475.1	Klebsiella pneumoniae		KSB2_9B
+GCF_904866485.1	Klebsiella pneumoniae		KSB1_1H
+GCF_904866505.1	Klebsiella pneumoniae		INF323-sc-2280125
+GCF_904866535.1	Klebsiella pneumoniae		KSB1_8C-sc-2280241
+GCF_904866555.1	Klebsiella pneumoniae		INF102-sc-2279897
+GCF_905477585.1	Klebsiella pneumoniae		RH201207
+GCF_003010735.1	Klebsiella pneumoniae	ozaenae	AR_0096
+GCF_000742755.1	Klebsiella pneumoniae	pneumoniae	ATCC 43816 KPPR1
+GCF_000775375.1	Klebsiella pneumoniae	pneumoniae	KPNIH33
+GCF_000775395.1	Klebsiella pneumoniae	pneumoniae	KPNIH32
+GCF_000784945.1	Klebsiella pneumoniae	pneumoniae	KPNIH29
+GCF_000784985.1	Klebsiella pneumoniae	pneumoniae	KPNIH30
+GCF_000785005.1	Klebsiella pneumoniae	pneumoniae	KPNIH31
+GCF_001316565.3	Klebsiella pneumoniae	pneumoniae	ST101:960186733
+GCF_001316945.3	Klebsiella pneumoniae	pneumoniae	ST2017:950142398
+GCF_001521895.1	Klebsiella pneumoniae	pneumoniae	NUHL24835
+GCF_001529935.1	Klebsiella pneumoniae	pneumoniae	RJF999
+GCF_001530015.1	Klebsiella pneumoniae	pneumoniae	RJF293
+GCF_001611055.1	Klebsiella pneumoniae	pneumoniae	TGH8
+GCF_001611095.1	Klebsiella pneumoniae	pneumoniae	TGH10
+GCF_001746535.1	Klebsiella pneumoniae	pneumoniae	TGH13
+GCF_002007665.1	Klebsiella pneumoniae	pneumoniae	KPN_KPC_HUG_07
+GCF_002163895.1	Klebsiella pneumoniae	pneumoniae	RJA166
+GCF_002248115.2	Klebsiella pneumoniae	pneumoniae	KPCTRSRTH07
+GCF_002249975.2	Klebsiella pneumoniae	pneumoniae	AUSMDU00008079
+GCF_002251875.2	Klebsiella pneumoniae	pneumoniae	KPCTRSRTH01
+GCF_002761515.1	Klebsiella pneumoniae	pneumoniae	H11
+GCF_002852365.2	Klebsiella pneumoniae	pneumoniae	WCHKP015093
+GCF_002852945.2	Klebsiella pneumoniae	pneumoniae	SCKP020046
+GCF_002852975.2	Klebsiella pneumoniae	pneumoniae	SCKP020079
+GCF_002853435.2	Klebsiella pneumoniae	pneumoniae	SCKP020143
+GCF_002893825.1	Klebsiella pneumoniae	pneumoniae	GD4
+GCF_002951555.1	Klebsiella pneumoniae	pneumoniae	BR7
+GCF_002951595.1	Klebsiella pneumoniae	pneumoniae	BR21
+GCF_002970375.3	Klebsiella pneumoniae	pneumoniae	CRK0298
+GCF_003037615.2	Klebsiella pneumoniae	pneumoniae	SCKP040074
+GCF_003285145.1	Klebsiella pneumoniae	pneumoniae	11219
+GCF_003286975.1	Klebsiella pneumoniae	pneumoniae	12208
+GCF_003286995.1	Klebsiella pneumoniae	pneumoniae	SC-7
+GCF_003330945.1	Klebsiella pneumoniae	pneumoniae	KC-Pl-HB1
+GCF_003850165.1	Klebsiella pneumoniae	pneumoniae	ARLG-3135
+GCF_003855515.1	Klebsiella pneumoniae	pneumoniae	R210-2
+GCF_004141975.1	Klebsiella pneumoniae	pneumoniae	CCRI-22199
+GCF_005885775.1	Klebsiella pneumoniae	pneumoniae	KpvST15_NDM
+GCF_009025895.1	Klebsiella pneumoniae	pneumoniae	BK13048
+GCF_009867115.1	Klebsiella pneumoniae	pneumoniae	KP-8788
+GCF_009909305.1	Klebsiella pneumoniae	pneumoniae	KUH-KPNHVL1
+GCF_009909325.1	Klebsiella pneumoniae	pneumoniae	KUH-KPNHVF1
+GCF_011752495.1	Klebsiella pneumoniae	pneumoniae	HB25-1
+GCF_014123345.1	Klebsiella pneumoniae	pneumoniae	KP18069
+GCF_016774435.1	Klebsiella pneumoniae	pneumoniae	RJBSI76
+GCF_016774455.1	Klebsiella pneumoniae	pneumoniae	RJBSI76-pV
+GCF_017301375.1	Klebsiella pneumoniae	pneumoniae	SA-KpST14
+GCF_018310495.1	Klebsiella pneumoniae	pneumoniae	MRSN752165
+GCF_018314145.1	Klebsiella pneumoniae	pneumoniae	kpn-hnqyy
+GCF_018604765.1	Klebsiella pneumoniae	pneumoniae	90CM2
+GCF_018623335.1	Klebsiella pneumoniae	pneumoniae	WGR351
+GCF_000016305.1	Klebsiella pneumoniae	pneumoniae MGH 78578	ATCC 700721; MGH 78578
+GCF_000009885.1	Klebsiella pneumoniae	pneumoniae NTUH-K2044	NTUH-K2044
+GCF_000967845.1	Klebsiella pneumoniae	rhinoscleromatis SB3432	SB3432
+GCF_000220485.1	Klebsiella pneumoniae		KCTC 2242
+GCF_000281535.2	Klebsiella pneumoniae	pneumoniae KPNIH1	KPNIH1
+GCF_000281435.2	Klebsiella pneumoniae	pneumoniae KPNIH10	KPNIH10
+GCF_000512165.1	Klebsiella pneumoniae	pneumoniae Kp13	Kp13
+GCF_000240185.1	Klebsiella pneumoniae	pneumoniae HS11286	HS11286
+GCF_000294365.1	Klebsiella pneumoniae	pneumoniae 1084	1084
+GCF_000474015.1	Klebsiella pneumoniae		CG43
+GCF_000417225.2	Klebsiella pneumoniae		DMC1097
+GCF_000417265.2	Klebsiella pneumoniae		UHKPC07
+GCF_000406765.2	Klebsiella pneumoniae		500_1420
+GCF_016071735.1	Klebsiella pneumoniae	pneumoniae ATCC 43816	ATCC 43816
+GCF_000695935.1	Klebsiella pneumoniae	pneumoniae KPNIH27	KPNIH27
+GCF_000717515.1	Klebsiella pneumoniae	pneumoniae KPR0928	KPR0928
+GCF_018075085.1	Klebsiella pneumoniae		MGH 39
+GCF_000465975.2	Klebsiella pneumoniae		KP-1
+GCF_000814805.1	Klebsiella pneumoniae	pneumoniae 1158	1158
+GCF_000813205.1	Klebsiella pneumoniae		HK787
+GCF_000733255.1	Klebsiella pneumoniae	pneumoniae PittNDM01	PittNDM01
+GCF_000598005.1	Klebsiella pneumoniae		30660/NJST258_1
+GCF_000597905.1	Klebsiella pneumoniae		30684/NJST258_2

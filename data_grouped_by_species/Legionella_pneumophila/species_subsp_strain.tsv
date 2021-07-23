@@ -1,0 +1,91 @@
+assembly_accession	species	subsp	strain
+GCF_001610735.1	Legionella pneumophila		L10-023 Ulm
+GCF_001652645.1	Legionella pneumophila		D-7632
+GCF_001652665.1	Legionella pneumophila		D-7631
+GCF_001652685.1	Legionella pneumophila		D-7630
+GCF_001677075.2	Legionella pneumophila		OLDA
+GCF_001677115.2	Legionella pneumophila		Pontiac
+GCF_001752705.1	Legionella pneumophila		E10_P
+GCF_001752725.1	Legionella pneumophila		E11_U
+GCF_001752745.1	Legionella pneumophila		Philadelphia_1_ATCC
+GCF_001752765.1	Legionella pneumophila		Philadelphia_1_CDC
+GCF_001752785.1	Legionella pneumophila		Philadelphia_2
+GCF_001752805.1	Legionella pneumophila		Philadelphia_3
+GCF_001752825.1	Legionella pneumophila		Philadelphia_4
+GCF_001752845.1	Legionella pneumophila		C1_S
+GCF_001752865.1	Legionella pneumophila		C2_S
+GCF_001752885.1	Legionella pneumophila		C3_O
+GCF_001752905.1	Legionella pneumophila		C4_S
+GCF_001752925.1	Legionella pneumophila		C5_P
+GCF_001752945.1	Legionella pneumophila		C6_S
+GCF_001752965.1	Legionella pneumophila		C7_O
+GCF_001753065.1	Legionella pneumophila		C8_S
+GCF_001753085.1	Legionella pneumophila		C9_S
+GCF_001753105.1	Legionella pneumophila		C10_S
+GCF_001753125.1	Legionella pneumophila		C11_O
+GCF_001753145.1	Legionella pneumophila		E1_P
+GCF_001753265.1	Legionella pneumophila		E2_N
+GCF_001753285.1	Legionella pneumophila		E3_N
+GCF_001753305.1	Legionella pneumophila		E4_N
+GCF_001753325.1	Legionella pneumophila		E5_N
+GCF_001753345.1	Legionella pneumophila		E6_N
+GCF_001753365.1	Legionella pneumophila		E7_O
+GCF_001753385.1	Legionella pneumophila		E8_O
+GCF_001753405.1	Legionella pneumophila		E9_O
+GCF_001941585.1	Legionella pneumophila		Philadelphia-1 AE
+GCF_001969405.1	Legionella pneumophila		F4469
+GCF_001989475.1	Legionella pneumophila		F4468
+GCF_002813715.1	Legionella pneumophila		D6026
+GCF_002813735.1	Legionella pneumophila		D5945
+GCF_003003515.1	Legionella pneumophila		D-4954
+GCF_003003535.1	Legionella pneumophila		NY24 (D-7706)
+GCF_003003555.1	Legionella pneumophila		NY23 (D-7705)
+GCF_003004065.1	Legionella pneumophila		D-7708
+GCF_003004195.1	Legionella pneumophila		D-5265
+GCF_003004235.1	Legionella pneumophila		D-4040
+GCF_003004335.1	Legionella pneumophila		D-7787
+GCF_006364635.1	Legionella pneumophila		FDAARGOS_779
+GCF_009664815.1	Legionella pneumophila		AUSMDU00010536 SBT211
+GCF_010669065.1	Legionella pneumophila		ERS1305867
+GCF_900119755.1	Legionella pneumophila		ST23
+GCF_900119765.1	Legionella pneumophila		ST62
+GCF_900119775.1	Legionella pneumophila		ST37
+GCF_900119785.1	Legionella pneumophila		ST42
+GCF_900186855.1	Legionella pneumophila		NCTC11286
+GCF_900475735.1	Legionella pneumophila		NCTC11404
+GCF_900635115.1	Legionella pneumophila		NCTC12180
+GCF_900636955.1	Legionella pneumophila		NCTC11193
+GCF_001590615.2	Legionella pneumophila	pascullei	F-4185
+GCF_001590645.1	Legionella pneumophila	pascullei	D-7158
+GCF_001590695.1	Legionella pneumophila	pascullei	D-7119
+GCF_003004115.1	Legionella pneumophila	pascullei	U8W (D-7160)
+GCF_900475745.1	Legionella pneumophila	pascullei	NCTC12272
+GCF_900637585.1	Legionella pneumophila	pascullei	NCTC12273
+GCF_000306845.1	Legionella pneumophila	pneumophila	HL06041035
+GCF_001766275.1	Legionella pneumophila	pneumophila	FFI102
+GCF_001766295.1	Legionella pneumophila	pneumophila	FFI103
+GCF_001766315.1	Legionella pneumophila	pneumophila	FFI104
+GCF_001766335.1	Legionella pneumophila	pneumophila	FFI105
+GCF_001766355.1	Legionella pneumophila	pneumophila	FFI329
+GCF_001766375.1	Legionella pneumophila	pneumophila	FFI337
+GCF_003003815.1	Legionella pneumophila	pneumophila	Bellingham 1 (D-7473)
+GCF_003004135.1	Legionella pneumophila	pneumophila	Knoxville 1 (D-7468)
+GCF_003004155.1	Legionella pneumophila	pneumophila	Burlington 1 (D-7841)
+GCF_003004175.1	Legionella pneumophila	pneumophila	Birmingham 1 (D-7470)
+GCF_003004295.1	Legionella pneumophila	pneumophila	Allentown 1 (D-7475)
+GCF_001886795.1	Legionella pneumophila	fraseri	Detroit-1
+GCF_001886835.1	Legionella pneumophila	fraseri	Dallas 1E
+GCF_003003595.1	Legionella pneumophila	fraseri	D-3137
+GCF_003003675.1	Legionella pneumophila	fraseri	D-5387
+GCF_003003755.1	Legionella pneumophila	fraseri	Los Angeles 1 (D-7696)
+GCF_003003865.1	Legionella pneumophila	fraseri	Lansing 3
+GCF_003003955.1	Legionella pneumophila	fraseri	D-5744
+GCF_003004255.1	Legionella pneumophila	fraseri	F-4198
+GCF_000008485.1	Legionella pneumophila	pneumophila	Philadelphia 1
+GCF_000048665.1	Legionella pneumophila		str. Lens
+GCF_000048645.1	Legionella pneumophila		str. Paris
+GCF_000092545.1	Legionella pneumophila		str. Corby
+GCF_000092625.1	Legionella pneumophila		2300/99 Alcoy
+GCF_000239175.1	Legionella pneumophila	pneumophila ATCC 43290	ATCC 43290
+GCF_000404245.1	Legionella pneumophila	pneumophila	Thunder Bay
+GCF_000347615.1	Legionella pneumophila	pneumophila LPE509	LPE509
